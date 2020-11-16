@@ -1,0 +1,2787 @@
+{
+    "fssp": {
+        "mass-0": {
+            "name": "Maternal Heart of Mary Parish",
+            "address": "Charles O'Neill Way (off Thomas St.) - Lewisham NSW 2049 - Australia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-1": {
+            "name": "St. Ezechiel House",
+            "address": "PO Box 917 - Petersham NSW 2049 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-2": {
+            "name": "Our Lady of the Southern Cross House",
+            "address": "P.O. Box 46 - Pendle Hill NSW 2145 - Australia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-3": {
+            "name": "Campion College Chapel",
+            "address": "8-14 Austin Woodbury Place - Old Toongabbie NSW 2146 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-4": {
+            "name": "Croatian Catholic Parish Hall",
+            "address": "70 Douglas Rd - Blacktown NSW 2148 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-5": {
+            "name": "St. Mark's Catholic Coptic Church",
+            "address": "at the intersection of Prospect Hwy. And Reservoir Rd. - Prospect NSW 2148 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-6": {
+            "name": "St. Patrick's Cathedral",
+            "address": "1 Marist Place - Parramatta NSW 2150 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-7": {
+            "name": "Sts. Peter and Paul Church",
+            "address": "2 Boake Place - Garran ACT 2605 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-8": {
+            "name": "St. Thomas Becket House",
+            "address": "P.O. Box 6241 - Mawson ACT 2607 - Australia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-9": {
+            "name": "St Jude's Catholic Church",
+            "address": "55 Mulley St - Holder ACT 2611 - Australia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-10": {
+            "name": "Our Lady of the Nativity Church",
+            "address": "254 Great Western Hwy. - Lawson NSW 2783 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-11": {
+            "name": "Our Lady Seat of Wisdom House",
+            "address": "8 Stuart Rd - Dulwich SA 5065 - Australia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-12": {
+            "name": "Church of the Holy Name",
+            "address": "80 Payneham Rd - Stepney SA 5069 - Australia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-13": {
+            "name": "Maison Saint-Paul",
+            "address": "Rue des Minimes 27, bo\u00eete 8 - B-1000 Bruxelles - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-14": {
+            "name": "Eglise Saints Jean et Etienne \"aux Minimes\"",
+            "address": "rue des Minimes 62 - B-1000 Bruxelles - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-15": {
+            "name": "Maison Sainte-Julienne",
+            "address": "Place Licourt 52 - B-4040 Herstal - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-16": {
+            "name": "Notre-Dame de la Licour",
+            "address": "Place Licour - B-4040 Herstal - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-17": {
+            "name": "Chapelle Saint-Oremus",
+            "address": "Place Camille Lemonnier - B-4040 Herstal - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-18": {
+            "name": "Chapelle Sainte-Th\u00e9r\u00e8se",
+            "address": "Avenue Jean 1er, 5 b - B-5000 Namur - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-19": {
+            "name": "Maison Saint-Aubain",
+            "address": "Rue Fran\u00e7ois Dufer, 25 - B-5000 Namur - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-20": {
+            "name": "Chapelle de la Maison Saint-Aubain",
+            "address": "Rue Fran\u00e7ois Dufer 25 - B-5000 Namur - Belgique",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-21": {
+            "name": "Maison Saint-Isaac Jogues",
+            "address": "1425, rue de Meulles - Qu\u00e9bec QC G1L 4J8 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-22": {
+            "name": "Eglise St-Z\u00e9phirin-de-Stadacona",
+            "address": "1450, avenue Fran\u00e7ois-1er - Qu\u00e9bec QC G1L 4L2 - Canada",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-23": {
+            "name": "Eglise Saint-Ir\u00e9n\u00e9e",
+            "address": "560 Av. Atwater - Montr\u00e9al QC H4C 1M9 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-24": {
+            "name": "Maison Saint-Ir\u00e9n\u00e9e-de-Lyon",
+            "address": "3044 Rue Delisle - Montr\u00e9al QC H4C 1M9 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-25": {
+            "name": "Our Lady of Perpetual Succour House",
+            "address": "528 Old St. Patrick Street - Ottawa ON K1N 5L5 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-26": {
+            "name": "St. Clement Parish",
+            "address": "528 Old St. Patrick Street - Ottawa ON K1N 5L5 - Canada",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-27": {
+            "name": "Our Lady of the Airways Chapel",
+            "address": "337 Breadner Blvd - Gloucester ON K1V 7L5 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-28": {
+            "name": "St. Joseph House",
+            "address": "317 Morton St. - Thorold ON L2V 1C4 - Canada",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-29": {
+            "name": "St. Aloysius Parish",
+            "address": "317 Morton St. - Thorold ON L2V 1C4 - Canada",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-30": {
+            "name": "FSSP Alberta House",
+            "address": "501 53 Ave. S.W. - Calgary AB T2V 0C1 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-31": {
+            "name": "St. Anthony Church",
+            "address": "5340 4th St. SW. - Calgary AB T2V 0Z5 - Canada",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-32": {
+            "name": "Vital Grandin Chaplaincy",
+            "address": "5116 146 Ave NW - Edmonton AB T5A 5B7 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-33": {
+            "name": "St. Edmund's Parish",
+            "address": "13120 - 116 Street NW - Edmonton AB T5E 5H5 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-34": {
+            "name": "Assumption Parish",
+            "address": "9034 - 95 Avenue - Edmonton AB T6C 1Z3 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-35": {
+            "name": "Holy Family Parish",
+            "address": "4851 Beatrice St. - Vancouver BC V5N 4J5 - Canada",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-36": {
+            "name": "Divine Mercy House",
+            "address": "4851 Beatrice St. - Vancouver BC V5N 4J5 - Canada",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-37": {
+            "name": "Kostel sv. Jind\u0159icha a Kunhuty",
+            "address": "Jind\u0159i\u0161sk\u00e1 30 - CZ-11000 Praha - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-38": {
+            "name": "Kostel Nanebevzet\u00ed Panny Marie a sv. Karla Velik\u00e9ho",
+            "address": "Ke Karlovu 453/1 - CZ-12000 Praha - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-39": {
+            "name": "Kostel Svat\u00e9ho Jakuba",
+            "address": "P\u0159esanick\u00e9 n\u00e1m. - CZ-33501 Nepomuk - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-40": {
+            "name": "Kostel Ob\u011btov\u00e1n\u00ed Panny Marie",
+            "address": "Piaristick\u00e9 n\u00e1m., \u010cesk\u00e9 Bud\u011bjovice 1 - CZ-37001 \u010cesk\u00e9 Bud\u011bjovice - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-41": {
+            "name": "Kostel Svat\u00e9ho Ducha a Loret\u00e1nsk\u00e1 kaple",
+            "address": "N\u00e1m\u011bst\u00ed J. Gurreho 67 - CZ-37324 \u0158\u00edmov - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-42": {
+            "name": "D\u016fm svat\u00e9ho Jana Nepomuck\u00e9ho",
+            "address": "Kosteln\u00ed 10 - CZ-37324 \u0158\u00edmov - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-43": {
+            "name": "Kostel sv. Jakuba",
+            "address": "Velk\u00e1 Dominik\u00e1nsk\u00e1 272/9 - CZ-41201 Litom\u011b\u0159ice - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-44": {
+            "name": "Kostel sv. Petra a Pavla",
+            "address": "Rudoltice 54 - CZ-56125 Rudoltice - \u010cesk\u00e1 republika",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-45": {
+            "name": "Colegio Campestre Santo Domingo Savio Anolaima",
+            "address": "Finca La Floresta - Sitio Los Vele\u00f1os, vda La Mar\u00eda - 253040 Anolaima, Cundinamarca - Colombia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-46": {
+            "name": "Casa San Mart\u00edn de Porres",
+            "address": "Finca La Floresta - Sitio Los Vele\u00f1os, vda La Mar\u00eda - 253040 Anolaima, Cundinamarca - Colombia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-47": {
+            "name": "Parroquia Nuestra Se\u00f1ora del Perpetuo Socorro",
+            "address": "kr 2 4 22 Barrio Palermo - 253047 La Florida-Anolaima, Cundinamarca - Colombia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-48": {
+            "name": "Kirche St. Bonifatius",
+            "address": "Wildhof 9 - D-24119 Kronshagen (Kiel) - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-49": {
+            "name": "Priesterbruderschaft St. Petrus Hannover",
+            "address": "Mommsenstr. 2 - D-30169 Hannover - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-50": {
+            "name": "Basilika St. Clemens",
+            "address": "Platz an der Basilika 1 - D-30169 Hannover - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-51": {
+            "name": "Kirche St. Dionysius",
+            "address": "Abteihofstr. 25 - D-40221 D\u00fcsseldorf - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-52": {
+            "name": "St. Antonius",
+            "address": "Unterd\u00f6rnen 137 - D-42275 Wuppertal-Barmen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-53": {
+            "name": "St. Joseph",
+            "address": "Menninghauser Stra\u00dfe 5 - D-42859 Remscheid - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-54": {
+            "name": "Kirche St. Joseph",
+            "address": "Grullbadstr. 94 - D-45661 Recklinghausen-Grullbad - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-55": {
+            "name": "Kirche St. Michael",
+            "address": "Michaelstr. 1 - D-45661 Reckl\u00ednghausen-Hochlarmark - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-56": {
+            "name": "Priesterbruderschaft St. Petrus Gelsenkirchen",
+            "address": "Bahnstrasse 8 - D-45891 Gelsenkirchen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-57": {
+            "name": "Pfarrkirche St. Joseph",
+            "address": "Lothringer Str. 154 - D-46045 Oberhausen-Styrum - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-58": {
+            "name": "Haus St. Ludgerus",
+            "address": "Lothringer Str. 13 - D-46045 Oberhausen-Styrum - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-59": {
+            "name": "Kirche Maria Hilf",
+            "address": "Rolandstrasse 59 - D-50677 K\u00f6ln - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-60": {
+            "name": "Haus St. Engelbertus",
+            "address": "Johann-Heinrich Platz 12 - D-50935 K\u00f6ln - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-61": {
+            "name": "St. Anna Kapelle",
+            "address": "Kapellenweg 10 - D-51381 Leverkusen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-62": {
+            "name": "Altenberger Dom",
+            "address": "Ludwig-Wolker-Stra\u00dfe 4 - D-51519 Altenberg - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-63": {
+            "name": "St. Apollinaris",
+            "address": "Jan-Wellem-Strasse 12 - D-51789 Lindlar - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-64": {
+            "name": "Stadtpfarrkirche St. Joseph",
+            "address": "Pr\u00e4lat G\u00f6belstrasse 1 - D-66386 St. Ingbert - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-65": {
+            "name": "Haus St. Lutwinus",
+            "address": "Kirchenrektorat - Stiftstr. 18 - D-66740 Saarlouis - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-66": {
+            "name": "Kirche St. Petrus Canisius",
+            "address": "Stiftstr. 18 - D-66740 Saarlouis - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-67": {
+            "name": "Zentrum der Aktion Leben",
+            "address": "Steinklingenerstr. 24 - D-69469 Weinheim - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-68": {
+            "name": "Haus Maria Immaculata",
+            "address": "Reisstrasse 13 - D-70435 Stuttgart-Zuffenhausen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-69": {
+            "name": "Kirche St. Albert",
+            "address": "Wollinstrasse 55 - D-70435 Stuttgart-Zuffenhausen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-70": {
+            "name": "Hauskapelle Maria Immaculata",
+            "address": "Reisstrasse 13 - D-70435 Stuttgart-Zuffenhausen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-71": {
+            "name": "Kirche St. Leonhard",
+            "address": "Aalener Strasse 1 - D-73527 Schw\u00e4bisch Gm\u00fcnd - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-72": {
+            "name": "Haus St. Martin von Tours",
+            "address": "Linkentalstrasse 29 - D-74172 Neckarsulm - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-73": {
+            "name": "Frauenkirche",
+            "address": "Spitalstr. 1 - D-74172 Neckarsulm - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-74": {
+            "name": "Kirche St. Josef",
+            "address": "Breisacher Str. 119 - D-79110 Freiburg - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-75": {
+            "name": "Haus St. Judas Thadd\u00e4us",
+            "address": "Hauptstrasse 18 - D-79725 Laufenburg (Baden) - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-76": {
+            "name": "Damenstiftskirche St. Anna",
+            "address": "Damenstiftstrasse 1 - D-80331 M\u00fcnchen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-77": {
+            "name": "Haus St. Lantpertus",
+            "address": "Altheimer Eck 15 - D-80331 M\u00fcnchen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-78": {
+            "name": "Seniorenheim Dorothea",
+            "address": "Beowulfstrasse 4 - D-81739 M\u00fcnchen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-79": {
+            "name": "Kapel Seniorenheim Dorothea",
+            "address": "Beowulfstrasse 4 - D-81739 M\u00fcnchen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-80": {
+            "name": "Sebastianskapelle",
+            "address": "Ludwigstrasse 81 - D-82467 Garmisch-Partenkirchen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-81": {
+            "name": "Haus St. Josef",
+            "address": "Viererspitzstrasse 7b - D-82481 Mittenwald - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-82": {
+            "name": "Pilgerhauskapelle",
+            "address": "Obermarkt 4 - D-82481 Mittenwald - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-83": {
+            "name": "Kirche St. Leonhard",
+            "address": "Leonhardiweg - D-83131 Nu\u00dfdorf am Inn - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-84": {
+            "name": "Kapelle des Canisiuskonvikts",
+            "address": "Konviktstr. 1 - D-85049 Ingolstadt - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-85": {
+            "name": "Maria-Hilf-Kapelle",
+            "address": "Westenstra\u00dfe 68 - D-85072 Eichst\u00e4tt - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-86": {
+            "name": "Distriktsstudienhaus Bettbrunn",
+            "address": "Forststr. 12 - D-85092 K\u00f6sching-Bettbrunn - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-87": {
+            "name": "Marktkirche",
+            "address": "Marktplatz 5 - D-85567 Grafing - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-88": {
+            "name": "Spitalkirche St. Margareth",
+            "address": "Margarethenstr. 1 - D-86150 Augsburg - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-89": {
+            "name": "Priesterbruderschaft St. Petrus Augsburg",
+            "address": "Milchberg 13 - D-86150 Augsburg - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-90": {
+            "name": "St. Franziskus-Kapelle",
+            "address": "Ecke Kissinger Str./Augsburger Str. - D-86415 Mering - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-91": {
+            "name": "Pfarrkirche St. Justina / Dominikanerinnenkirche",
+            "address": "Klosterhof - D-86825 Bad W\u00f6rishofen - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-92": {
+            "name": "Haus Maria K\u00f6nigin der Apostel",
+            "address": "Grabenstrasse 4 - D-86842 T\u00fcrkheim - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-93": {
+            "name": "Kapuzinerkirche Maria Unbefleckte Empf\u00e4ngnis",
+            "address": "Grabenstrasse 2 - D-86842 T\u00fcrkheim - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-94": {
+            "name": "Heilig-Kreuz-Kirche (Ignatiuskapelle)",
+            "address": "Malteserstrasse - D-86899 Landsberg a. Lech - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-95": {
+            "name": "Schlosskapelle Bad Gr\u00f6nenbach",
+            "address": "Pappenheimerstrasse - D-87730 Bad Gr\u00f6nenbach - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-96": {
+            "name": "Haus St. Michael",
+            "address": "Kapellenweg 5 - D-88145 Opfenbach-Wigratzbad - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-97": {
+            "name": "Priesterseminar St. Petrus",
+            "address": "Kirchstrasse 16 - D-88145 Opfenbach-Wigratzbad - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-98": {
+            "name": "Priesterseminar St. Petrus",
+            "address": "Kirchstrasse 16 - D-88145 Opfenbach-Wigratzbad - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-99": {
+            "name": "Seminarkapelle St. Josef",
+            "address": "Kirchstrasse 16 - D-88145 Opfenbach-Wigratzbad - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-100": {
+            "name": "S\u00fchnekirche",
+            "address": "Kirchstrasse - D-88145 Opfenbach-Wigratzbad - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-101": {
+            "name": "St. Antoniuskirche",
+            "address": "Adam-Klein-Str. 45 - D-90429 N\u00fcrnberg-Gostenhof - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-102": {
+            "name": "St. Augustinuskirche",
+            "address": "Deutsche Schulgasse 4 - D-92224 Amberg - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-103": {
+            "name": "Kirche St. Jobst",
+            "address": "Regensburger Str. 16 - D-92318 Neumarkt in der Oberpfalz - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-104": {
+            "name": "Pfarrkirche St. Elisabeth",
+            "address": "Benefiziatengasse 9 - D-93476 Blaibach - Deutschland",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-105": {
+            "name": "Eglise Saint-S\u00e9bastien",
+            "address": "Rue Michelet - F-11100 Narbonne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-106": {
+            "name": "Eglise Saint-Sauveur",
+            "address": "Place Pierre Bouchard - F-14000 Caen - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-107": {
+            "name": "Maison Saint-Exup\u00e8re",
+            "address": "28 rue Jean Romain - F-14000 Caen - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-108": {
+            "name": "Eglise Notre-Dame",
+            "address": "rue Notre-Dame - F-18000 Bourges - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-109": {
+            "name": "Maison Sainte-Solange",
+            "address": "5 rue Macdonald - F-18000 Bourges - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-110": {
+            "name": "Oratoire de la Maison Saint-B\u00e9nigne",
+            "address": "22 rue Montchapet - F-21000 Dijon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-111": {
+            "name": "Maison Saint-B\u00e9nigne",
+            "address": "22 rue de Montchapet - F-21000 Dijon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-112": {
+            "name": "Basilique Maison natale de Saint-Bernard",
+            "address": "Place des Feuillants - F-21121 Fontaine-les-Dijon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-113": {
+            "name": "Maison Saint-Charles",
+            "address": "Maison dioc\u00e9saine - 38, avenue Georges Pompidou - F-24000 P\u00e9rigueux - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-114": {
+            "name": "Eglise Saint-Jean St-Charles du Toulon",
+            "address": "Place du Toulon - F-24000 P\u00e9rigueux - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-115": {
+            "name": "Chapelle de l'Alba",
+            "address": "rue Albert Thomas - F-24100 Bergerac - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-116": {
+            "name": "Eglise Sainte-Madeleine",
+            "address": "1 rue de la Madeleine - F-25000 Besan\u00e7on - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-117": {
+            "name": "Maison Sainte-Odile",
+            "address": "16, rue Francis Clerc - F-25000 Besan\u00e7on - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-118": {
+            "name": "Chapelle de la maison Sainte-Odile",
+            "address": "16, rue Francis Clerc - F-25000 Besan\u00e7on - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-119": {
+            "name": "Eglise Notre-Dame",
+            "address": "43 rue Berthelot - F-26000 Valence - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-120": {
+            "name": "Maison Pie VI",
+            "address": "3 rue de Mulhouse - F-26000 Valence - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-121": {
+            "name": "Chapelle Notre-Dame de la Rose",
+            "address": "36 Avenue Saint-Martin - F-26200 Mont\u00e9limar - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-122": {
+            "name": "Coll\u00e9giale Notre-Dame",
+            "address": "rue du chapitre - F-27200 Vernon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-123": {
+            "name": "Maison Saint-Aignan",
+            "address": "21 rue de la Couronne - F-28000 Chartres - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-124": {
+            "name": "Eglise Saint-Aignan",
+            "address": "12 Place de l'\u00c9tape au Vin - F-28000 Chartres - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-125": {
+            "name": "Eglise Saint-Mathieu",
+            "address": "Place Saint-Mathieu - F-29000 Quimper - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-126": {
+            "name": "Eglise Sainte-S\u00e8ve",
+            "address": "1 Rue Fran\u00e7ois Tr\u00e9vien - F-29600 Sainte-S\u00e8ve - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-127": {
+            "name": "Maison Saint-Yves",
+            "address": "13 rue de Poul An Od - F-29620 Lanmeur - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-128": {
+            "name": "Eglise Saint-Bruno",
+            "address": "place du 11 novembre - F-33000 Bordeaux - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-129": {
+            "name": "Maison Saint-Emilion",
+            "address": "16 rue Jean Soula - F-33000 Bordeaux - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-130": {
+            "name": "Coll\u00e8ge Saint-Fort",
+            "address": "135 Avenue du Pr\u00e9sident Robert Schuman - F-33110 Le Bouscat - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-131": {
+            "name": "Basilique Notre-Dame",
+            "address": "F-33120 Arcachon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-132": {
+            "name": "Eglise Saint-Christophe",
+            "address": "Place Saint-Christophe - F-36000 Ch\u00e2teauroux - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-133": {
+            "name": "Eglise Saint-Pierre-Ville",
+            "address": "Place Saint-Pierre - F-37000 Tours - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-134": {
+            "name": "Maison Saint-Lidoire",
+            "address": "13 rue Blanqui - F-37000 Tours - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-135": {
+            "name": "Maison Saint-Hugues",
+            "address": "7 place des Tilleuls - F-38000 Grenoble - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-136": {
+            "name": "Coll\u00e9giale Saint-Andr\u00e9",
+            "address": "9 place Saint-Andr\u00e9 - F-38000 Grenoble - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-137": {
+            "name": "Chapelle Notre-Dame de l'Isle",
+            "address": "place Notre-Dame de l'Isle - F-38200 Vienne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-138": {
+            "name": "Coll\u00e8ge de la Sainte-Famille",
+            "address": "90 all\u00e9e de Champrond (la B\u00e2tie) - F-38330 Saint-Ismier - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-139": {
+            "name": "Eglise d'Azans",
+            "address": "Rue de l'Eglise - F-39100 Dole - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-140": {
+            "name": "Maison Saint-Vincent-de-Paul",
+            "address": "Ch\u00e2teau de Baure - 66 route de Baure - F-40180 Clermont - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-141": {
+            "name": "Eglise paroissiale Sainte-Madeleine",
+            "address": "F-40180 Clermont - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-142": {
+            "name": "Chapelle Saint-Bernard",
+            "address": "9, rue Buisson - F-42000 Saint-Etienne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-143": {
+            "name": "Ecole Sainte-Anne",
+            "address": "22, rue \u00c9lis\u00e9e Reclus - F-42000 Saint-Etienne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-144": {
+            "name": "Maison Saint-Bernard",
+            "address": "9, rue Buisson - F-42000 Saint-Etienne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-145": {
+            "name": "Eglise Saint Jean-Baptiste",
+            "address": "Rue de l'\u00e9glise - F-42520 Bessey - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-146": {
+            "name": "Eglise Saint-Pierre",
+            "address": "14, rue Palais de Justice - F-42600 Montbrison - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-147": {
+            "name": "Maison Sainte-Anne",
+            "address": "64 bis, rue du Gal Buat - F-44000 Nantes - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-148": {
+            "name": "Eglise Saint-Cl\u00e9ment",
+            "address": "4, rue Lorette de la Refoulais - F-44000 Nantes - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-149": {
+            "name": "Ecole Sainte-Catherine de Sienne",
+            "address": "28 rue du Fort - F-44300 Nantes - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-150": {
+            "name": "Eglise Saint-Jean-Baptiste",
+            "address": "Avenue de la 42e Division - F-55100 Verdun - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-151": {
+            "name": "Institution St Thomas d'Aquin",
+            "address": "F-56240 Bern\u00e9 - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-152": {
+            "name": "Les Forges",
+            "address": "Pontcalec - F-56240 Bern\u00e9 - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-153": {
+            "name": "Chapelle du Carmel La Ratrie (anc. Carmel d\u2019Alen\u00e7on)",
+            "address": "31 rue de la P\u00e9relle - F-61250 Cuissai - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-154": {
+            "name": "Eglise paroissiale",
+            "address": "F-61400 Saint-Langis-l\u00e8s-Mortagne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-155": {
+            "name": "Maison Saint-Joseph",
+            "address": "Institut Croix-des-Vents - 55, rue d'Argentr\u00e9 - F-61500 S\u00e9es - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-156": {
+            "name": "Chapelle de l'Institut Croix-des-Vents",
+            "address": "55, rue d'Argentr\u00e9 - F-61500 S\u00e9es - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-157": {
+            "name": "Institut Croix-des-Vents - Saint-Joseph",
+            "address": "55, rue d'Argentr\u00e9 - F-61500 S\u00e9es - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-158": {
+            "name": "Chapelles des Capucins",
+            "address": "9 boulevard Lafayette - F-63000 Clermont-Ferrand - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-159": {
+            "name": "Maison Bienheureux Louis-\u00c9douard Cestac",
+            "address": "8 rue Bernadotte - F-64000 Pau - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-160": {
+            "name": "Chapelle Saint-Louis-de-Gonzague",
+            "address": "place Saint Louis de Gonzague - F-64000 Pau - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-161": {
+            "name": "Chapelle Sainte-Bernadette",
+            "address": "51 rue Trayn\u00e8s - F-65000 Tarbes - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-162": {
+            "name": "Maison Notre-Dame des Victoires",
+            "address": "16, boulevard du Gave - F-65100 Lourdes - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-163": {
+            "name": "Chapelle de l'Hospitalet",
+            "address": "3 route de Pau - F-65100 Lourdes - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-164": {
+            "name": "Eglise Saint-Matthieu",
+            "address": "12, rue Grande La Monnaie - F-66000 Perpignan - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-165": {
+            "name": "Maison Saint-Georges",
+            "address": "52 rue des Menestrels - F-66100 Perpignan - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-166": {
+            "name": "Coll\u00e9giale Saint-Just",
+            "address": "41, rue des Farges - F-69005 Lyon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-167": {
+            "name": "Coll\u00e8ge Fran\u00e7ois et Jacinthe de Fatima",
+            "address": "3, rue des Deux Amants - F-69009 Lyon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-168": {
+            "name": "Maison Padre Pio",
+            "address": "1, chemin de Petite Champagne - F-69340 Francheville - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-169": {
+            "name": "Chapelle de la Maison Padre Pio",
+            "address": "1, chemin de Petite Champagne - F-69340 Francheville - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-170": {
+            "name": "Chapelle ND de la Citadelle",
+            "address": "15 rue Doneau - F-71100 Chalon-sur-Sa\u00f4ne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-171": {
+            "name": "Maison Saint-Marcel",
+            "address": "1 passage Milon - F-71100 Chalon-sur-Sa\u00f4ne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-172": {
+            "name": "Eglise Saint-Georges",
+            "address": "Rue de l'\u00c9glise - F-71680 Vinzelles - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-173": {
+            "name": "Eglise Saint-Beno\u00eet",
+            "address": "Place Saint-Beno\u00eet - F-72100 Le Mans - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-174": {
+            "name": "Eglise paroissiale Saint-Georges",
+            "address": "F-72440 Bouloire - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-175": {
+            "name": "Chapelle de la Bergerie",
+            "address": "660, ch. des Gardes - F-74410 Saint-Jorioz - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-176": {
+            "name": "\u0152uvre des Retraites",
+            "address": "660, ch. des Gardes - F-74410 Saint-Jorioz - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-177": {
+            "name": "Eglise paroissiale de Duingt",
+            "address": "F-74410 Duingt - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-178": {
+            "name": "Maison Saint-Maurice - La Bergerie",
+            "address": "660, ch. des Gardes - F-74410 Saint-Jorioz - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-179": {
+            "name": "Ecole Sainte C\u00e9cile",
+            "address": "8, Rue Blaise Pascal - F-74600 Annecy - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-180": {
+            "name": "Eglise Saint Fran\u00e7ois-Xavier",
+            "address": "39 boulevard des Invalides - F-75007 Paris - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-181": {
+            "name": "Chapelle de la Visitation",
+            "address": "68 avenue Denfert-Rochereau - F-75014 Paris - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-182": {
+            "name": "Chapelle Notre-Dame du Lys",
+            "address": "7 rue Blomet - F-75015 Paris - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-183": {
+            "name": "Maison Saint-Germain",
+            "address": "15 rue Petrarque - F-75116 Paris - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-184": {
+            "name": "Chapelle Saint-Michel d'Ingouville",
+            "address": "rue Saint-Michel - F-76600 Le Havre - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-185": {
+            "name": "Chapelle du Carmel",
+            "address": "112, rue de Ch\u00e2age - F-77100 Meaux - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-186": {
+            "name": "Chapelle du Sacr\u00e9 C\u0153ur et de l'Immac. Conception (Chapelle du Carmel)",
+            "address": "6 bis, blvd. G\u00e9n\u00e9ral Leclerc - F-77300 Fontainebleau - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-187": {
+            "name": "Maison Sainte-Th\u00e9r\u00e8se-de-l'Enfant-J\u00e9sus",
+            "address": "82 bis, rue Aristide Briand - F-77300 Fontainebleau - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-188": {
+            "name": "Chapelle de l'Immacul\u00e9e Conception",
+            "address": "8 bis rue Monseigneur Gibier - F-78000 Versailles - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-189": {
+            "name": "Ecole et coll\u00e8ge Saint-Joseph-des-Lys",
+            "address": "38 rue R\u00e9milly - F-78000 Versailles - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-190": {
+            "name": "Maison Saint-Dominique Savio",
+            "address": "14, rue des Moines - F-78000 Versailles - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-191": {
+            "name": "Ecole Sainte-Genevi\u00e8ve",
+            "address": "1, route de Versailles - F-78560 Le Port-Marly - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-192": {
+            "name": "Ecole Sainte-Genevi\u00e8ve",
+            "address": "1, route de Versailles - F-78560 Le Port-Marly - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-193": {
+            "name": "Eglise paroissiale Saint-Pierre et Saint-Paul",
+            "address": "St. Martin de Br\u00e9thencourt - F-78660 Saint-Martin-de-Br\u00e9thencourt - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-194": {
+            "name": "Chapelle du Sacr\u00e9-C\u0153ur",
+            "address": "Place Jules Ferry - F-85100 Sables d\u2019Olonne - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-195": {
+            "name": "Coll\u00e8ge de l'Esp\u00e9rance",
+            "address": "Bourdevaire - F-85110 Sainte-C\u00e9cile - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-196": {
+            "name": "Maison Notre-Dame de la Sainte Esp\u00e9rance",
+            "address": "Bourdevaire - F-85110 Sainte-C\u00e9cile - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-197": {
+            "name": "Chapelle du Coll\u00e8ge de l'Esp\u00e9rance",
+            "address": "Bourdevaire - F-85110 Sainte-C\u00e9cile - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-198": {
+            "name": "Eglise Sainte-Gemme",
+            "address": "2 Rue de la Cure - F-85400 Sainte-Gemme-la-Plaine - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-199": {
+            "name": "Eglise Saint-Laurent",
+            "address": "3 place du Souvenir - F-88000 Epinal - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-200": {
+            "name": "Maison Sainte-Jeanne-d'Arc",
+            "address": "25 rue Thiers - F-88000 Epinal - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-201": {
+            "name": "Institution Saint-Dominique",
+            "address": "184 rue du Clos Mariotte - F-88460 La Baffe - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-202": {
+            "name": "Chapelle Notre-Dame-de-Lorette",
+            "address": "4 avenue de G\u00e9n\u00e9ral De Gaulle - F-89000 Auxerre - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-203": {
+            "name": "Eglise Sainte-Mathie",
+            "address": "Boulevard Maupeou - F-89100 Sens - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-204": {
+            "name": "Chapelle Notre-Dame de Brasse",
+            "address": "8 rue de l'\u00e9galit\u00e9 - F-90000 Belfort - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-205": {
+            "name": "Eglise Notre-Dame des Cit\u00e9s",
+            "address": "18 Avenue de Marseille - F-91170 Viry-Ch\u00e2tillon - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-206": {
+            "name": "Eglise Saint-Jean-Baptiste",
+            "address": "Rue de la Mairie - F-92350 Le Plessis-Robinson - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-207": {
+            "name": "Notre-Dame du Rosaire",
+            "address": "Place des Marronniers - F-94100 Saint-Maur-des-Foss\u00e9s - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-208": {
+            "name": "Maison Saint-Maur",
+            "address": "77 avenue Joffre - F-94100 Saint-Maur-des-Foss\u00e9s - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-209": {
+            "name": "Eglise du C\u0153ur Immacul\u00e9 de Marie",
+            "address": "29 Rue de la Division Leclerc - F-95430 Butry-sur-Oise - France",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-210": {
+            "name": "St. Cuthbert House",
+            "address": "6 Belford Park - Edinburgh  EH4 3DP - Great Britain",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-211": {
+            "name": "St Cuthbert\u2019s House Chapel",
+            "address": "6 Belford Park - Edinburgh  EH4 3DP - Great Britain",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-212": {
+            "name": "Our Lady of Perpetual Succour Catholic Church",
+            "address": "30 Amersham Road - Chesham Bois, Bucks  HP6 5PE - Great Britain",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-213": {
+            "name": "Christ the King Church",
+            "address": "Harrowden Road - Bedford  MK42 0SP - Great Britain",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-214": {
+            "name": "St. John Fisher Parish (St. William of York Church)",
+            "address": "Upper Redlands Road - Reading  RG1 5JT - Great Britain",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-215": {
+            "name": "St. John Fisher House",
+            "address": "17 Eastern Avenue - Reading  RG1 5RU - Great Britain",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-216": {
+            "name": "Most Pure Heart of Mary House",
+            "address": "Smith Street - Warrington, Cheshire  WA1 2NS - Great Britain",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-217": {
+            "name": "St Mary's Church",
+            "address": "Smith Street - Warrington, Cheshire  WA1 2NS - Great Britain",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-218": {
+            "name": "Saint John's Church",
+            "address": "Parnell Street -  Waterford - Irlande",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-219": {
+            "name": "Saint Alphonsus Church",
+            "address": " Barntown Co. Wexford - Irlande",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-220": {
+            "name": "Ss. Trinit\u00e0 dei Pellegrini",
+            "address": "Piazza della Trinit\u00e0 dei Pellegrini - I-00186 Roma - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-221": {
+            "name": "Casa San Pietro (Procura Romana)",
+            "address": "Via dei Pettinari 36/a - I-00186 Roma - Italia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-222": {
+            "name": "Chiesa di S. Simon Piccolo",
+            "address": "698 Santa Croce - I-30135 Venezia - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-223": {
+            "name": "San Simon Piccolo",
+            "address": "Santa Croce 703 - I-30135 Venezia - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-224": {
+            "name": "Chiesa di San Pancrazio",
+            "address": "Via Chiesa, 15 - I-36066 Ancignano di Sandrigo - Italia",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-225": {
+            "name": "Kirche St Antonius",
+            "address": "Piccolin Str. 20 - I-39030 Pikolein - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-226": {
+            "name": "FSSP S\u00fcdtirol",
+            "address": "Schrambach 47 - I-39040 Feldthurns - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-227": {
+            "name": "Kirche Herz-Jesu",
+            "address": "Altenmarktgasse 17 - I-39042 Brixen - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-228": {
+            "name": "Kirche Mariahilf",
+            "address": "Brennerstra\u00dfe 40 - I-39042 Brixen - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-229": {
+            "name": "Kirche St. Michael",
+            "address": "St. Michaelsplatz 2 - I-39098 Innichen - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-230": {
+            "name": "Deutschordenskirche St. Georg",
+            "address": "Weggensteinstra\u00dfe 14 - I-39100 Bozen - Italia",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-231": {
+            "name": "Casa San Juan Diego",
+            "address": "Apdo. Postal 109 - Palacio Postal D.F. - 06002 M\u00e9xico - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-232": {
+            "name": "Capilla de San Juan Nepomuceno",
+            "address": "Francisco G. Hornedo 450 - Zona Centro - 20000 Aguascalientes - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-233": {
+            "name": "Parroquia de Nuestra Se\u00f1ora de La Anunciaci\u00f3n",
+            "address": "Calle, Dr. G. Ram\u00edrez Valdez 102, 1a Secci\u00f3n - 20235 Aguascalientes - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-234": {
+            "name": "Nuestra Se\u00f1ora del Pilar - Cuasi-Parroquia de San Pedro en Cadenas",
+            "address": "Madero #508 - Colonia Centro - 44110 Guadalajara, Jalisco - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-235": {
+            "name": "Capilla de la Casa Cristo Rey",
+            "address": "Enrique D\u00edaz de Le\u00f3n 933 - Colonia Moderna - 44190 Guadalajara, Jalisco - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-236": {
+            "name": "Casa Cristo Rey",
+            "address": "Enrique D\u00edaz de Le\u00f3n 933 - Colonia Moderna - 44190 Guadalajara, Jalisco - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-237": {
+            "name": "San Javier de las Colinas",
+            "address": "Paseo Loma Ancha 3460, - 44660 Guadalajara, Jalisco - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-238": {
+            "name": "Capilla de la Parroquia de Nuestra Se\u00f1ora del Perpetuo Socorro",
+            "address": "Calle Manuel Doblado 27 - 52175 Metepec - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-239": {
+            "name": "Iglesia de Santa Lucia",
+            "address": "Calle 60 502, Parque Santa Lucia, Centro - 97000 M\u00e9rida - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-240": {
+            "name": "Capilla de Club Mater Dei",
+            "address": "Calle 22 A #215 por calle 1 y 1 B, Bugambilias - 97205 M\u00e9rida - M\u00e9xico",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-241": {
+            "name": "Huis Sint Bonifatius",
+            "address": "Pastorie Sint-Agneskerk - Amstelveenseweg 161 - NL-1075 XA Amsterdam - Nederland",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-242": {
+            "name": "Sint-Agneskerk",
+            "address": "Amstelveenseweg 163 - NL-1075 XA Amsterdam - Nederland",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-243": {
+            "name": "Mount St. Mary\u2019s",
+            "address": "4 Rangiwai Road - Titirangi - 0604 Auckland - New Zealand",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-244": {
+            "name": "St. Anne\u2019s Chapel",
+            "address": "3 Cole Pl - Te Atatu South - 0610 Auckland - New Zealand",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-245": {
+            "name": "St. Peter Chanel House",
+            "address": "5a Cole Pl - Te Atatu South - 0610 Auckland - New Zealand",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-246": {
+            "name": "Nne Enyemaka Shrine Umuaka",
+            "address": "P.O. Box 605 -  Umuaka, Imo State - Nigeria",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-247": {
+            "name": "Nne Enyemaka Shrine Umuaka",
+            "address": "P.O. Box 605 - 474123 Umuaka, Imo State - Nigeria",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-248": {
+            "name": "Pfarrkirche zu den hl. Schutzengeln (Paulanerkirche)",
+            "address": "Paulanergasse 6/Wiedner Hauptstr. - A-1040 Wien - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-249": {
+            "name": "Hauskapelle St. Leopold",
+            "address": "Kleine Neugasse 13/4 - A-1050 Wien - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-250": {
+            "name": "Haus St. Leopold",
+            "address": "Kleine Neugasse 13/4 - A-1050 Wien - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-251": {
+            "name": "Kirche St. Maria und Josef",
+            "address": "Kirchengasse 171 - A-2822 F\u00f6hrenau - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-252": {
+            "name": "Minoritenkirche (am Landhaus)",
+            "address": "Klosterstrasse 7 - A-4010 Linz - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-253": {
+            "name": "Haus St. Florian",
+            "address": "Wiener Strasse 262a - A-4030 Linz - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-254": {
+            "name": "Pfarrkirche Hl. Martin",
+            "address": "Kirchenpl. 37 - A-4493 Wolfern - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-255": {
+            "name": "Pfarrkirche Schardenberg",
+            "address": "A-4784 Schardenberg - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-256": {
+            "name": "Pfarrkirche St. Konrad",
+            "address": "A-4817 St. Konrad - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-257": {
+            "name": "Kapelle der Familie Messner",
+            "address": "K\u00f6ppach - A-4904 Atzbach-K\u00f6ppach - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-258": {
+            "name": "Loretokloster",
+            "address": "Paris-Lodron-Strasse 6 - A-5020 Salzburg - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-259": {
+            "name": "Haus St. Sebastian",
+            "address": "Kirchenrektorat - Linzer Gasse 41 - A-5020 Salzburg - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-260": {
+            "name": "Kirche St. Sebastian",
+            "address": "Linzer Gasse 41 - A-5020 Salzburg - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-261": {
+            "name": "Kapuzinerkirche",
+            "address": "Klosterstr. 5, Kapuzinerkirche - A-5450 Werfen - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-262": {
+            "name": "Pfarrkirche Mari\u00e4 Himmelfahrt Amras",
+            "address": "Kirchsteig 9 - A-6020 Innsbruck - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-263": {
+            "name": "Kapelle zur Schmerzhaften Mutter",
+            "address": "Brand - A-6622 Berwang - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-264": {
+            "name": "St. Anna Kapelle",
+            "address": "A-6632 Ehrwald - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-265": {
+            "name": "Pfarrkirche St. Nikolaus",
+            "address": "A-6791 Gortipohl - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-266": {
+            "name": "Klein-Theresien-Karmel",
+            "address": "Treietstrasse 18 - A-6830 Rankweil - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-267": {
+            "name": "B\u00fcrgerspitalkirche",
+            "address": "Dominikanergasse 8 - A-8020 Graz - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-268": {
+            "name": "Kirche St. Margaretha",
+            "address": "Hauptplatz 1 - A-8271 Bad Waltersdorf - \u00d6sterreich",
+            "diocese": "Di\u00f6zese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-269": {
+            "name": "St. John Cantius House - Dom \u015bw. Jana Kantego",
+            "address": "ul. Brzegowa 17 - PL 30-235 Krak\u00f3w - Polska",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-270": {
+            "name": "The Wawel Royal Cathedral",
+            "address": "Wawel 3 - PL 31-001 Krak\u00f3w - Polska",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-271": {
+            "name": "The Holy Cross Church",
+            "address": "ul. \u015aw. Krzy\u017ca 23 - PL 31-023 Krak\u00f3w - Polska",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-272": {
+            "name": "Niepokalanego Pocz\u0119cia Naj\u015bwi\u0119tszej Maryi Panny",
+            "address": "ul. Miko\u0142aja Kopernika 19 - PL 31-529 Krak\u00f3w - Polska",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-273": {
+            "name": "Ko\u015bci\u00f3\u0142 \u015bw. Jakuba",
+            "address": "ul. Kr\u00f3lowej Jadwigi 5 - PL 32-400 My\u015blenice - Polska",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-274": {
+            "name": "Ko\u015bci\u00f3\u0142 \u015bw. Anny",
+            "address": "ul Zacisze 17 - PL 34-400 Nowy Targ - Polska",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-275": {
+            "name": "Ko\u015bci\u00f3\u0142 \u015aw. Ducha",
+            "address": "ul. W\u0142adys\u0142awa Jagie\u0142\u0142y 23 - PL 62-010 Pobiedziska - Polska",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-276": {
+            "name": "Kaplica Szpitala Powiatowego",
+            "address": "ul. S\u0142owackiego 2 - PL 62-300 Wrze\u015bnia - Polska",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-277": {
+            "name": "Kaplica Si\u00f3str S\u0142u\u017cebniczek Niepokalanego Pocz\u0119cia NMP",
+            "address": "ul. Sukiennicza 11 - PL 64-500 Szamotu\u0142y - Polska",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-278": {
+            "name": "Maison Saint-Augustin",
+            "address": "78, Avenue de B\u00e9thusy - CH-1012 Lausanne - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-279": {
+            "name": "Chapelle Saint-Augustin",
+            "address": "78, Avenue de B\u00e9thusy - CH-1012 Lausanne - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-280": {
+            "name": "Paroisse Sainte-Claire",
+            "address": "15, Rue du Grand-Bureau - CH-1227 Gen\u00e8ve-Les Acacias - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-281": {
+            "name": "Chapelle Notre-Dame de Compassion",
+            "address": "2, place du march\u00e9 - CH-1630 Bulle - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-282": {
+            "name": "Maison Saint-Pierre-Canisius",
+            "address": "Chemin du Sch\u00f6nberg 8 - CH-1700 Fribourg - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-283": {
+            "name": "Basilique Notre-Dame",
+            "address": "place de Notre-Dame 1 - CH-1700 Fribourg - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-284": {
+            "name": "Chapelle Sainte-Anne",
+            "address": "Hattenberg (Bourguillon) - Hattenberg 2 - CH-1717 Hattenberg-St. Ursen - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-285": {
+            "name": "Eglise Saint-Norbert",
+            "address": "Rue de la D\u00eeme 81 - CH-2000 Neuch\u00e2tel - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-286": {
+            "name": "Pfarrkirche St. Anton",
+            "address": "Kannenfeldstrasse 35 - CH-4056 Basel - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-287": {
+            "name": "Bruderklausen-Kapelle",
+            "address": "Kapellenweg - CH-5275 Etzgen - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-288": {
+            "name": "Haus Hl. Bruder Klaus",
+            "address": "Engelgasse 14 - CH-5647 Oberr\u00fcti - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-289": {
+            "name": "Kirche St. Mauritius",
+            "address": "Niederwil - CH-6330 Cham - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-290": {
+            "name": "Herz Jesu Kirche",
+            "address": "Schwamendingenstr. 55 - CH-8050 Z\u00fcrich-Oerlikon - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-291": {
+            "name": "Haus Maria K\u00f6nigin der Engel",
+            "address": "Ludretikonerstr. 3 - CH-8800 Thalwil - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-292": {
+            "name": "Pfarrei Hl. Maximilian Kolbe",
+            "address": "Ludretikonerstr. 3 - CH-8800 Thalwil - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-293": {
+            "name": "Pfarrkirche St. Pelagiberg",
+            "address": "CH-9225 St. Pelagiberg - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": null,
+            "date": ""
+        },
+        "mass-294": {
+            "name": "Haus St. Benedikt",
+            "address": "St. Pelagibergstr. 7 - CH-9225 St. Pelagiberg - Suisse",
+            "diocese": "Dioc\u00e8se :",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-295": {
+            "name": "Church of St Mary",
+            "address": "538 Broadway - Providence RI 02909 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "2018-08-21"
+        },
+        "mass-296": {
+            "name": "St. Joseph of Cupertino House",
+            "address": "538 Broadway - Providence RI 02909 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-297": {
+            "name": "St. Stanislaus Parish",
+            "address": "43 Franklin St. - Nashua NH 03064 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "2016-07-01"
+        },
+        "mass-298": {
+            "name": "St. Casimir House",
+            "address": "5 Green St - Nashua NH 03064-2641 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-299": {
+            "name": "Saint Stanislaus Kostka Church",
+            "address": "80 Richmond Street - Winchester NH 03470 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-300": {
+            "name": "Our Lady of Fatima Chapel",
+            "address": "32 W. Franklin Ave. - Pequannock NJ 07440 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "1994-08-01",
+            "date2": "1975-10-01"
+        },
+        "mass-301": {
+            "name": "St. Isaac Jogues House",
+            "address": "32 W. Franklin Ave. - Pequannock NJ 07440 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-302": {
+            "name": "St. Lawrence Chapel",
+            "address": "110 State Street - Harrisburg PA 17101 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "2007-12-01"
+        },
+        "mass-303": {
+            "name": "St. Elizabeth Ann Seton House",
+            "address": "812 North 2nd Street - Harrisburg PA 17102 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-304": {
+            "name": "House of the Holy Face",
+            "address": "510 W Union St. - Allentown PA 18101 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-305": {
+            "name": "St. Stephen of Hungary Parish",
+            "address": "510 W Union St - Allentown PA 18101 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-306": {
+            "name": "St. Peter's House",
+            "address": "450 Venard Road - South Abington Township PA 18411 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-307": {
+            "name": "St. Gregory's House",
+            "address": "1703 Jackson Street - Scranton PA 18504 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-308": {
+            "name": "St. Michael's Parish",
+            "address": "1703 Jackson St. - Scranton PA 18504 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-309": {
+            "name": "Saint Marys Catholic Church",
+            "address": "140 W Hector St - Conshohocken PA 19428 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "2018-08-01"
+        },
+        "mass-310": {
+            "name": "St. John Neumann House",
+            "address": "140 W. Hector St. - Conshohocken PA 19428 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-311": {
+            "name": "FSSP Baltimore",
+            "address": "114 W. Saratoga St. - Baltimore MD 21201 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-312": {
+            "name": "National Shrine of St. Alphonsus Liguori",
+            "address": "114 W. Saratoga St. - Baltimore MD 21201 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "2017-08-01"
+        },
+        "mass-313": {
+            "name": "St. Mark House",
+            "address": "8707 Buford Square Place - North Chesterfield VA 23235 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-314": {
+            "name": "St. Joseph Parish",
+            "address": "828 Buford Road - Richmond VA 23235 - USA",
+            "diocese": "Diocese:",
+            "link": "http://stjosephrichmond.org",
+            "date": "2011-07-01"
+        },
+        "mass-315": {
+            "name": "St. Scholastica House",
+            "address": "1016 Burns St. - Chesapeake VA 23320 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-316": {
+            "name": "St. Benedict Parish",
+            "address": "521 McCosh Dr. - Chesapeake VA 23320 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "2011-03-05"
+        },
+        "mass-317": {
+            "name": "St. Andr\u00e9 Bessette House",
+            "address": "584 Landers Drive - Mableton GA 30126 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-318": {
+            "name": "St. Francis de Sales Parish",
+            "address": "587 Landers Drive - Mableton GA 30126 - USA",
+            "diocese": "Diocese:",
+            "link": "https://fsspatl.com/",
+            "date": "1999-01-01"
+        },
+        "mass-319": {
+            "name": "Resurrection of Our Lord Parish",
+            "address": "8121 Cypress Lake Drive - Fort Myers FL 33919 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.corpuschristifssp.com/",
+            "date": "2017-01-01"
+        },
+        "mass-320": {
+            "name": "Corpus Christi House",
+            "address": "1231 Lastrada Ln - Naples FL 34103 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.corpuschristifssp.com/",
+            "date": "2017-01-01"
+        },
+        "mass-321": {
+            "name": "St. William Catholic Church",
+            "address": "601 Seagate Dr - Naples FL 34108 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.corpuschristifssp.com/",
+            "date": "2017-01-01"
+        },
+        "mass-322": {
+            "name": "St. Agnes' Church",
+            "address": "7775 Vanderbilt Beach Rd. - Naples FL 34120 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.corpuschristifssp.com/",
+            "date": "2017-01-01"
+        },
+        "mass-323": {
+            "name": "St. Mary Magdalene House",
+            "address": "1900 Meadowood St. - Sarasota FL 34231 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-324": {
+            "name": "Christ the King Parish",
+            "address": "1900 Meadowood St. - Sarasota FL 34231 - USA",
+            "diocese": "Diocese:",
+            "link": "http://www.christthekingsarasota.org/Christ_the_King.html",
+            "date": "1995-01-01"
+        },
+        "mass-325": {
+            "name": "Our Lady Queen of Peace Catholic Church",
+            "address": "6455, S.W. State Road 200 - Ocala FL 34476 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-326": {
+            "name": "St. Francis de Sales",
+            "address": "4086 Frankfort Pike - Georgetown KY 40324 - USA",
+            "diocese": "Diocese:",
+            "link": "https://sites.google.com/a/cdlex.org/reginapacis/",
+            "date": "2009-10-07"
+        },
+        "mass-327": {
+            "name": "St. Peter's House",
+            "address": "4088 Frankfort Rd. - Georgetown KY 40324 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-328": {
+            "name": "St. Peter's Church",
+            "address": "153 Barr St. - Lexington KY 40507 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-329": {
+            "name": "St. Anthony of Padua House",
+            "address": "291 Scoville Drive - Vienna OH 44473 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-330": {
+            "name": "Queen of the Holy Rosary Parish",
+            "address": "291 Scoville Dr. - Vienna OH 44473 - USA",
+            "diocese": "Diocese:",
+            "link": "https://qhrparish.org/",
+            "date": "1997-01-01",
+            "date2": "1978-01-01",
+            "date3": "1991-01-01"
+        },
+        "mass-331": {
+            "name": "St. John Mary Vianney House",
+            "address": "140 S. Findlay St. - Dayton OH 45403 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-332": {
+            "name": "Holy Family Catholic Parish",
+            "address": "Corner E 5th Street & Findlay St. - Dayton OH 45403 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.daytonlatinmass.org/",
+            "date": "2010-09-10"
+        },
+        "mass-333": {
+            "name": "St. Stanislaus Parish",
+            "address": "415 North Brookfield Street - South Bend IN 46628 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": "2015-09-08"
+        },
+        "mass-334": {
+            "name": "St. Albert the Great House",
+            "address": "415 North Brookfield Street - South Bend IN 46628 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-335": {
+            "name": "St. Theodora Guerin House",
+            "address": "4643 Gaywood Dr. - Fort Wayne IN 46806 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-336": {
+            "name": "Sacred Heart Parish",
+            "address": "4643 Gaywood Dr. - Fort Wayne IN 46806 - USA",
+            "diocese": "Diocese:",
+            "link": "https://sacredheartfw.org",
+            "date": ""
+        },
+        "mass-337": {
+            "name": "Sts. Philomena and Cecilia House",
+            "address": "16194 St. Mary's Road - Brookville IN 47012 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-338": {
+            "name": "Sts. Philomena and Cecilia Church",
+            "address": "16194 St. Mary's Road - Brookville IN 47012 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.latinmassbrookville.com",
+            "date": ""
+        },
+        "mass-339": {
+            "name": "St. Rita House",
+            "address": "435 4th St NE - Minneapolis MN 55413 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-340": {
+            "name": "Church of All Saints",
+            "address": "435 4th St. NE - Minneapolis MN 55413 - USA",
+            "diocese": "Diocese:",
+            "link": "https://fsspminneapolis.org",
+            "date": "2013-01-01"
+        },
+        "mass-341": {
+            "name": "Immaculate Conception Church",
+            "address": "922 Fifth Street - Rapid City SD 57701 - USA",
+            "diocese": "Diocese:",
+            "link": "https://icclatinmass.weebly.com/",
+            "date": ""
+        },
+        "mass-342": {
+            "name": "St. Hubert\u2019s House",
+            "address": "522 Columbus St. - Rapid City SD 57701 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-343": {
+            "name": "St. Joseph Parish",
+            "address": "1329 Belleview Av - Rockdale IL 60436 - USA",
+            "diocese": "Diocese:",
+            "link": "https://fsspjoliet.wordpress.com",
+            "date": ""
+        },
+        "mass-344": {
+            "name": "St. Francis Xavier House",
+            "address": "1329 Belleview Ave. - Rockdale IL 60436 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-345": {
+            "name": "Sts. Peter & Paul Church",
+            "address": "36 N. Ellsworth - Naperville IL 60540-4697 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.sspeterandpaul.net",
+            "date": ""
+        },
+        "mass-346": {
+            "name": "Ven. Fulton Sheen House",
+            "address": "1009 North 8th Street - Quincy IL 62301 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-347": {
+            "name": "St. Rose of Lima Church",
+            "address": "1009 North 8th Street - Quincy IL 62301 - USA",
+            "diocese": "Diocese:",
+            "link": "http://www.saintrosequincy.org/",
+            "date": "2008-11-09"
+        },
+        "mass-348": {
+            "name": "St. Rose Philippine Duchesne House",
+            "address": "5035 Rainbow Blvd. - Westwood KS 66205 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-349": {
+            "name": "St. Rose Philippine Duchesne Parish",
+            "address": "5035 Rainbow Blvd. - Westwood KS 66205 - USA",
+            "diocese": "Diocese:",
+            "link": "http://spdlatinmass.com/",
+            "date": "2012-04-01"
+        },
+        "mass-350": {
+            "name": "St. John Vianney Chapel",
+            "address": "14611B Waterman Crossing Road - Maple Hill KS 66507 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.fsspmaplehill.com",
+            "date": "2002-10-20"
+        },
+        "mass-351": {
+            "name": "St. Joseph House",
+            "address": "14611B Waterman Crossing Road - Maple Hill KS 66507 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-352": {
+            "name": "Immaculate Conception Parish",
+            "address": "2708 S. 24th Street - Omaha NE 68108 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.latinmassomaha.org",
+            "date": "2007-08-01"
+        },
+        "mass-353": {
+            "name": "St. Francis of Assisi House",
+            "address": "2708 S. 24th Street - Omaha NE 68108 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-354": {
+            "name": "Our Lady of Guadalupe Seminary",
+            "address": "PO Box 147 - Denton NE 68339 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-355": {
+            "name": "Our Lady of Guadalupe Seminary",
+            "address": "P.O. Box 147 - Denton NE 68339 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-356": {
+            "name": "St. Francis of Assisi House",
+            "address": "1210 Stillwater Avenue - Lincoln NE 68502 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-357": {
+            "name": "St. Francis of Assisi Church",
+            "address": "1145 South St. - Lincoln NE 68502 - USA",
+            "diocese": "Diocese:",
+            "link": "http://stfrancislincoln.org/",
+            "date": ""
+        },
+        "mass-358": {
+            "name": "St. John the Baptist Parish",
+            "address": "106 Pinoak Dr. - Cabot AR 72023 - USA",
+            "diocese": "Diocese:",
+            "link": "https://arkansaslatinmass.org/",
+            "date": "2017-06-24"
+        },
+        "mass-359": {
+            "name": "St. John the Baptist House",
+            "address": "106 Pin Oak Dr. - Cabot AR 72023 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-360": {
+            "name": "St Jospeh Church",
+            "address": "192 E Henri De Tonti Blvd - Springdale AR 72762 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.nwalatinmass.org",
+            "date": ""
+        },
+        "mass-361": {
+            "name": "St. Damien of Molokai Parish",
+            "address": "8455 NW 234th Street - Edmond OK 73025 - USA",
+            "diocese": "Diocese:",
+            "link": "http://www.saintdamiens.org",
+            "date": "2010-10-01"
+        },
+        "mass-362": {
+            "name": "Sacred Heart House",
+            "address": "8455 NW234th/Sorghum Mill - Edmond OK 73025 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-363": {
+            "name": "Most Precious Blood Parish",
+            "address": "3029 South 57th W. Ave - Tulsa OK 74107 - USA",
+            "diocese": "Diocese:",
+            "link": "http://www.mpbptulsa.com",
+            "date": "2013-10-28"
+        },
+        "mass-364": {
+            "name": "St. Padre Pio House",
+            "address": "3029 South 57th West Ave - Tulsa OK 74107 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-365": {
+            "name": "St. Joseph House",
+            "address": "2030 East State Hwy 356 - Irving TX 75060 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-366": {
+            "name": "Mater Dei Parish",
+            "address": "2030 E Hwy 356 - Irving TX 75060 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": "1991-06-01",
+            "date2": "2010-04-01"
+        },
+        "mass-367": {
+            "name": "St. Joseph the Worker Parish",
+            "address": "5075 FM 14 - Tyler TX 75706 - USA",
+            "diocese": "Diocese:",
+            "link": "http://latinmasstyler.org/",
+            "date": ""
+        },
+        "mass-368": {
+            "name": "St. Pedro Maldonado House",
+            "address": "P.O. Box 4995 - Tyler TX 75712 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-369": {
+            "name": "St. Wendelin House",
+            "address": "2920 Azle Ave. - Fort Worth TX 76106 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-370": {
+            "name": "St. Benedict's Parish",
+            "address": "2920 Azle Ave. - Fort Worth TX 76106 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.stbensfw.org/",
+            "date": ""
+        },
+        "mass-371": {
+            "name": "Regina Caeli Parish",
+            "address": "8121 Breen Rd - Houston TX 77064 - USA",
+            "diocese": "Diocese:",
+            "link": "https://reginacaeliparish.org",
+            "date": "2013-08-15"
+        },
+        "mass-372": {
+            "name": "St. Athanasius House",
+            "address": "8121 Breen Rd. - Houston TX 77064 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-373": {
+            "name": "Immaculate Conception Church",
+            "address": "118 N. Campbell St. - El Paso TX 79901 - USA",
+            "diocese": "Diocese:",
+            "link": "https://elpasofssp.com",
+            "date": "2014-01-01"
+        },
+        "mass-374": {
+            "name": "St. John the Evangelist House",
+            "address": "118 N. Campbell St. - El Paso TX 79901 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-375": {
+            "name": "Carmel of the Holy Spirit Monastery",
+            "address": "6318 S. Gallup St. - Littleton CO 80120 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-376": {
+            "name": "Our Lady of Mt. Carmel Parish",
+            "address": "5612 So. Hickory Street - Littleton CO 80120 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.olmcfssp.org",
+            "date": "2009-06-01"
+        },
+        "mass-377": {
+            "name": "Mother of Divine Grace House",
+            "address": "5620 So. Hickory Circle - Littleton CO 80120 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-378": {
+            "name": "Immaculate Conception Parish",
+            "address": "626 Aspen Drive - Colorado Springs CO 80911 - USA",
+            "diocese": "Diocese:",
+            "link": "http://www.cosfssp.org/",
+            "date": "2000-01-01"
+        },
+        "mass-379": {
+            "name": "St. Therese of the Child Jesus House",
+            "address": "P.O. Box 5211 - Colorado Springs CO 80931 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-380": {
+            "name": "St. Joan of Arc Parish",
+            "address": "4772 E. Poleline Ave - Post Falls ID 83854 - USA",
+            "diocese": "Diocese:",
+            "link": "https://www.stjoanarc.com/",
+            "date": "2007-01-01"
+        },
+        "mass-381": {
+            "name": "St. Thomas Aquinas House",
+            "address": "4850 E. Horsehaven Ave - Post Falls ID 83854-4659 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-382": {
+            "name": "Mater Misericordiae Parish",
+            "address": "1537 W. Monroe St. - Pheonix AZ 85007 - USA",
+            "diocese": "Diocese:",
+            "link": "https://phoenixlatinmass.org",
+            "date": "2004-06-01"
+        },
+        "mass-383": {
+            "name": "Annunciation of the Blessed Virgin House",
+            "address": "7147 S. 48th Ln. - Laveen AZ 85339 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-384": {
+            "name": "St. Cecilia Church",
+            "address": "850 Main St. - Clarkdale AZ 86324 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-385": {
+            "name": "St. Vibiana House",
+            "address": "607 4th Street - San Fernando CA 91340 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-386": {
+            "name": "St. Vitus Catholic Church",
+            "address": "607 4th St. - San Fernando CA 91340 - USA",
+            "diocese": "Diocese:",
+            "link": "http://www.fssp.la",
+            "date": "2018-06-25"
+        },
+        "mass-387": {
+            "name": "St. Anne's Parish",
+            "address": "2337 Irving Ave. - San Diego CA 92113 - USA",
+            "diocese": "Diocese:",
+            "link": "https://stannesd.com/",
+            "date": "2008-10-07"
+        },
+        "mass-388": {
+            "name": "St. Joachim House",
+            "address": "2337 Irving Ave - San Diego CA 92113 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-389": {
+            "name": "Holy Cross Chaplaincy",
+            "address": "St Anthony of Padua Church - 5770 N. Maroa - Fresno CA 93704 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-390": {
+            "name": "FSSP Fresno",
+            "address": "5693 N. Del Mar Ave. - Fresno CA 93704 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-391": {
+            "name": "St. Joseph House",
+            "address": "5461  44th Street - Sacramento CA 95820 - USA",
+            "diocese": "Diocese:",
+            "link": "More Details",
+            "date": ""
+        },
+        "mass-392": {
+            "name": "North American Martyrs Parish",
+            "address": "9924 232nd St SW - Edmonds WA 98020 - USA",
+            "diocese": "Diocese:",
+            "link": "http://www.northamericanmartyrs.org/",
+            "date": "2008-10-05"
+        },
+        "mass-393": {
+            "name": "Holyrood Cemetery",
+            "address": "205 NE 205th St. - Shoreline WA 98028 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-394": {
+            "name": "Our Lady of Grace House",
+            "address": "1055 NW 196th st. - Shoreline WA 98177 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        },
+        "mass-395": {
+            "name": "St. Joseph Parish",
+            "address": "602 S.  34th Street - Tacoma WA 98418-6820 - USA",
+            "diocese": "Diocese:",
+            "link": "https://saintjosephtacoma.org/",
+            "date": "2015-01-01"
+        },
+        "mass-396": {
+            "name": "FSSP House Tacoma",
+            "address": "608 S. 34th Street - Tacoma WA 98418-6820 - USA",
+            "diocese": "Diocese:",
+            "link": null,
+            "date": ""
+        }
+    }
+}
