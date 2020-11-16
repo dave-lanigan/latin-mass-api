@@ -37,10 +37,12 @@ def get_all_masses():
 def get_fssp_masses():
     client = pymongo.MongoClient(
         "mongodb+srv://david:Davlan240!@cluster0.4kpiq.mongodb.net/masses?retryWrites=true&w=majority")
-    db = client["masses"]
-    fssp = db["fssp"].find_one()
-    del fssp['_id']
-
+    coll = client["masses"]["fssp"]
+    fssp = list(coll.find())
+    d = []
+    for i, mass in enumerate(fssp):
+        del mass["_id"]
+        d.append(mass)
     return jsonify(fssp)
 
 
