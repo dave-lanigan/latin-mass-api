@@ -18,7 +18,7 @@ Note: SSPX and SSPV have an irregular status according to the Vatican.
 ### Root endpoint:
 
 
-### Endpoints:
+### Public Endpoints:
 
 Request:
 
@@ -156,4 +156,29 @@ Response:
     "org": "fssp"
   },
   ....
+```
+### Private Endpoints
+
+Must have key
+
+Request:
+-Adds Mass to organization
+```
+POST 
+```
+
+Response:
+```
+```
+
+Request
+-Updates Mass times for Mass on database
+```
+PUT
+```
+
+Request:
+-Deletes Mass from organization
+```
+DELETE 
 ```
