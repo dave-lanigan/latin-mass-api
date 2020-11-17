@@ -429,8 +429,10 @@ def get_sspx():
 
 if __name__ == "__main__":
 
-    client = pymongo.MongoClient(
-        "mongodb+srv://david:Davlan240!@cluster0.4kpiq.mongodb.net/masses?retryWrites=true&w=majority")
+    with open("config.json", "r") as f:
+        conf = json.load(f)
+
+    client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
 
     get_fssp(collection=db["fssp"])

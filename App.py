@@ -4,6 +4,10 @@ import os
 import pymongo
 import json
 
+with open("config.json", "r") as f:
+    conf = json.load(f)
+
+
 # init app
 
 app = Flask(__name__)
@@ -12,8 +16,7 @@ app = Flask(__name__)
 # what is this? use a decorator to route
 @app.route('/organizations', methods=['GET'])
 def get_orgs():
-    client = pymongo.MongoClient(
-        "mongodb+srv://david:Davlan240!@cluster0.4kpiq.mongodb.net/masses?retryWrites=true&w=majority")
+    client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
     org_key = db["org_key"].find_one()
     del org_key['_id']
@@ -22,8 +25,7 @@ def get_orgs():
 
 @app.route('/masses', methods=['GET'])
 def get_all_masses():
-    client = pymongo.MongoClient(
-        "mongodb+srv://david:Davlan240!@cluster0.4kpiq.mongodb.net/masses?retryWrites=true&w=majority")
+    client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
     fssp = db["fssp"].find_one()
     sspv = db["sspv"].find_one()
@@ -35,8 +37,7 @@ def get_all_masses():
 
 @app.route('/masses/fssp', methods=['GET'])
 def get_fssp_masses():
-    client = pymongo.MongoClient(
-        "mongodb+srv://david:Davlan240!@cluster0.4kpiq.mongodb.net/masses?retryWrites=true&w=majority")
+    client = pymongo.MongoClient(conf["mongo"])
     coll = client["masses"]["fssp"]
     fssp = list(coll.find())
     d = []
