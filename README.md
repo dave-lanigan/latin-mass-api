@@ -1,9 +1,19 @@
-# latin-mass-API
+# Latin Mass API
 
-API for information on wordwide.
-Currently only fssp and sspv (usa) are available.
+API for information on tridentine catholic liturgies world wide.
 
-##### Root endpoint:
+FSSP mass information is scraped from the [FSSP](https://www.fssp.org/en/find-us/where-are-we/) website.
+
+SSPX mass information is scraped from the [SSPX](https://sspx.org/en) site from the various region's pages.
+
+SSPV mass information is scraped from the [SSPV](https://congregationofstpiusv.com/locations/) site.
+
+Note: SSPX and SSPV have an irregular status according to the Vatican.
+
+***Note: Currently only fssp and sspv (usa) are available.***
+
+
+### Root endpoint:
 
 
 ### Endpoints:
