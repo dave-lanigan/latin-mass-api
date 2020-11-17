@@ -50,7 +50,7 @@ Response:
     "diocese": "Sydney", 
     "estDate0": null, 
     "link": "http://www.maternalheart.org", 
-    "masses": [
+    "times": [
       "Sun. 8.30 and 10.30 a.m.", 
       "Mon. 7.00 a.m.", 
       "Tue. 6.00 p.m.", 
@@ -69,7 +69,7 @@ Response:
     "diocese": "Parramatta", 
     "estDate0": null, 
     "link": null, 
-    "masses": [
+    "times": [
       "Fri. 12 p.m. (during term)"
     ], 
     "name": "Campion College Chapel", 
@@ -81,7 +81,7 @@ Response:
     "diocese": "Parramatta", 
     "estDate0": null, 
     "link": null, 
-    "masses": [
+    "times": [
       "Sun. 8am, 10am (Sung)"
     ], 
     "name": "Croatian Catholic Parish Hall", 
@@ -106,7 +106,7 @@ Response:
     "diocese": "Sydney", 
     "estDate0": null, 
     "link": "http://www.maternalheart.org", 
-    "masses": [
+    "times": [
       "Sun. 8.30 and 10.30 a.m.", 
       "Mon. 7.00 a.m.", 
       "Tue. 6.00 p.m.", 
@@ -125,7 +125,7 @@ Response:
     "diocese": "Parramatta", 
     "estDate0": null, 
     "link": null, 
-    "masses": [
+    "times": [
       "Fri. 12 p.m. (during term)"
     ], 
     "name": "Campion College Chapel", 
@@ -137,7 +137,7 @@ Response:
     "diocese": "Parramatta", 
     "estDate0": null, 
     "link": null, 
-    "masses": [
+    "times": [
       "Sun. 8am, 10am (Sung)"
     ], 
     "name": "Croatian Catholic Parish Hall", 
