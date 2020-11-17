@@ -1,10 +1,12 @@
 # Latin Mass API
 
-API for information on tridentine catholic liturgies world wide.
+API for information on tridentine catholic liturgies from tridentine-only societies world wide.
 
 FSSP mass information is scraped from the [FSSP](https://www.fssp.org/en/find-us/where-are-we/) website.
 
 SSPX mass information is scraped from the [SSPX](https://sspx.org/en) site from the various region's pages.
+
+ICKSP mass information is
 
 SSPV mass information is scraped from the [SSPV](https://congregationofstpiusv.com/locations/) site.
 
