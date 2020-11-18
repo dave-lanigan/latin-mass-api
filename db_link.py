@@ -15,7 +15,7 @@ coll2 = db["sspv"]
 #coll = coll1+coll2
 
 out = list(coll1.find(
-    {"country": "USA", "name": "St. Joseph the Worker Parish"}))
+    {"country": "United States", "name": "St. Joseph the Worker Parish"}))
 
 out1 = list(coll1.find({}))
 out2 = list(coll1.find())

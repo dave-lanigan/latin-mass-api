@@ -486,6 +486,6 @@ if __name__ == "__main__":
     db = client["masses"]
 
     # get_fssp(collection=db["fssp"])
-    get_sspv(collection=db["sspv"])
+    # get_sspv(collection=db["sspv"])
     # get_sspv(collection=None)
     # get_fssp(collection=None)
