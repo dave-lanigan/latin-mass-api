@@ -44,7 +44,7 @@ Ex. Response:
 
 ```
 
-##### /countries/"org"
+##### /countries/(org)
 
 (GET) Returns a list of the countries where an organization has masses.
 
@@ -170,28 +170,49 @@ Ex. Response
   },
   ....
 ```
-### Private Endpoints
 
-Must have key
+### Private Endpoints (Must have key)
 
-Request:
--Adds Mass to organization
-```
-POST 
-```
+##### /(org)
 
-Response:
-```
-```
+(PUT) Update Mass times for a Mass.
 
-Request
--Updates Mass times for Mass on database
-```
-PUT
+Parameter | Type | Description
+------|-------|-----
+id | string | The id for the mass document.
+time | list | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
+
+
+Ex. Response:
 ```
 
-Request:
--Deletes Mass from organization
 ```
-DELETE 
+
+##### /(org)
+
+(POST)
+
+Parameter | Type | Description
+------|-------|-----
+org | String | The organization. Use the organizations abbreviation. Ex: fssp or sspv
+country | String | The country. Ex: New Zealand or new zealand.
+
+
+Ex. Response:
+```
+
+```
+
+##### /(org)
+
+(DELETE) 
+
+Parameter | Type | Description
+------|-------|-----
+id | string | The id for the mass document.
+
+
+Ex. Response:
+```
+
 ```
