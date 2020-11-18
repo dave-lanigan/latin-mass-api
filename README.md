@@ -187,7 +187,7 @@ Parameter | Type | Description
 ------|-------|-----
 id | string | The id for the mass document.
 time | list | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
-estDate | dict/obj | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
+estDate | dict/obj | Date of establishement Should conform to ISO 8601. Ex: {"community":"1987-01-13","org":"2007-01-13","parishStatus":"2011-13-10"}
 
 
 Ex. Response:
