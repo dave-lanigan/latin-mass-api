@@ -139,7 +139,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
     d = {
         "mass-0": {
             "name": "Our Lady of Sorrows Chapel",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Florida",
                     "address": "1610 North Temple Avenue (U.S. 301) Starke, FL 32091",
                     "times": ["Sun. 9:00 a.m."],
@@ -150,7 +150,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-1": {
             "name": "Our Lady of Peace Chapel",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Florida",
                     "address": "2121 South Seacrest Blvd. Boynton, FL 33435",
                     "times": ["Sun. 5:00 p.m."],
@@ -161,7 +161,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-2": {
             "name": "Our Lady of Guadalupe Mission",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Idaho",
                     "address": "Idaho Falls Skyline Center 1575 N. Skyline Drive Idaho Falls, ID 83402",
                     "times": ["Mass offered on the 4th Sunday of every month at 8:30 a.m."],
@@ -172,7 +172,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-3": {
             "name": "Sacred Heart Mission",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Illinois",
                     "address": "Idaho Falls Skyline Center 1575 N. Skyline Drive Idaho Falls, ID 83402",
                     "times": ["Mass offered on the 1st, 2nd, 3rd, and 5th Sunday."],
@@ -183,7 +183,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-4": {
             "name": "Our Lady of Grace Mission",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Kentucky",
                     "address": "Comfort Suites Airport 6535 Paramount Park Dr. Louisville, Kentucky",
                     "times": ["3rd and 5th Sundays at 8:30 a.m."],
@@ -194,7 +194,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-5": {
             "name": "St. Hilary's Church",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Maryland",
                     "address": "3823 Second Street Brooklyn, MD 21225",
                     "times": ["Mass offered every Sunday 1st, 2nd, and 3rd Sundays – Mass is at 9 a.m."],
@@ -205,7 +205,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-6": {
             "name": "Our Lady of Fatima Chapel",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Michigan",
                     "address": "5037 Co. Hwy. 633 Traverse City, MI 49637",
                     "times": ["Mass offered on the 1st, 2nd and 5th Sundays of the month at 9:00 a.m."],
@@ -216,7 +216,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-7": {
             "name": "Our Lady of the Rosary Chapel",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Minnesota",
                     "address": "5820 Viola Road, N.E. Rochester, MN 55902",
                     "times": ["Mass offered on the 3rd and 5th Sundays of the month."],
@@ -227,7 +227,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-8": {
             "name": "St. Peter’s Chains Mission",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Missouri",
                     "address": "Located in the St. Louis, MO Please call for directions.",
                     "times": ["Mass offered on the 1st, 3rd, and 5th Sundays of the month at 8:30 a.m."],
@@ -238,7 +238,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-9": {
             "name": "St. Pius V Chapel",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "New York",
                     "address": "Eight Pond Place Oyster Bay Cove, NY 11771",
                     "times": ["Sun. 7:00 a.m., 8:30 a.m."],
@@ -249,7 +249,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-10": {
             "name": "St. Pius V School",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "New York",
                     "address": "18 Old East Neck Road Melville, NY 11747",
                     "times": ["Sun. 8:00 a.m., 10:30 a.m.", "First Saturday at 8:00 a.m."],
@@ -260,7 +260,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-11": {
             "name": "Holy Name of Mary Church",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "New York",
                     "address": "588 Winton Road North Rochester, NY 14610",
                     "times": ["Sun. 8:30 a.m.", "Holy Days 8:00 a.m."],
@@ -271,7 +271,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-12": {
             "name": "St. Joseph’s Novitiate",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "New York",
                     "address": "1275 Heart’s Content Road Round Top, NY 12473",
                     "times": ["Sun. 8:00 a.m., 10:30 a.m."],
@@ -282,7 +282,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-13": {
             "name": "St. Thomas More Church",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "New York",
                     "address": "738 Roberts Street Utica, NY 13502",
                     "times": ["Sun. 12:30 p.m.", "Holy Days 12:00 p.m."],
@@ -293,7 +293,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-14": {
             "name": "Holy Nativity Chapel",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Pennsylvania",
                     "address": "Rt. 512 Nazareth, PA 18064",
                     "times": ["Sun. 12:30  p.m."],
@@ -304,7 +304,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         },
         "mass-15": {
             "name": "Visitation Chapel",
-                    "country": "USA",
+                    "country": "United States",
                     "state": "Pennsylvania",
                     "address": "1614 West Southern Avenue South Williamsport, PA 17702",
                     "times": ["Sun. 8:15 a.m."],
@@ -360,7 +360,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
         for key in keys:
             collection.insert(cd[key])
 
-        print("fssp mongodb collection updated.")
+        print("sspv mongodb collection updated.")
 
     if collection is None:
         newf = create_new_filename(path=path, filename="sspv")

@@ -12,10 +12,10 @@ class Test:
         path = self.root+"orgs"
         resp = requests.get(path).json()
 
-        if type(resp) == dict:
+        if type(resp[0]) == dict:
             passed = True
 
-        print("Enpoint: {} Passed: {}".format(path, passed))
+        print("Endpoint: {} Passed: {}".format(path, passed))
         return resp, passed
 
     def test_orgs_countries(self, org):
@@ -26,7 +26,18 @@ class Test:
         if type(resp) == list:
             passed = True
 
-        print("Enpoint: {} Passed: {}".format(path, passed))
+        print("Endpoint: {} Passed: {}".format(path, passed))
+        return resp, passed
+
+    def test_orgs_masses(self, org, name="St. Joseph the Worker Parish", country="United States"):
+        passed = False
+        path = self.root+"countries/{}".format(org)
+        resp = requests.get(path).json()
+
+        if type(resp) == list:
+            passed = True
+
+        print("Endpoint: {} Passed: {}".format(path, passed))
         return resp, passed
 
 

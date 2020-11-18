@@ -1,7 +1,8 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, Response
 import os
 import pymongo
 import json
+from bson.json_util import dumps as bdumps
 
 
 # https://linoxide.com/tools/how-to-use-curl-command/
@@ -26,11 +27,11 @@ with open("config.json", "r") as f:
 app = Flask(__name__)
 
 
-def find_all(curser):
+def parse_bson(curser):
     out = list(curser)
     l = []
     for i, mass in enumerate(out):
-        del mass["_id"]
+        mass["_id"] = str(mass["_id"])
         l.append(mass)
     return l
 
@@ -39,12 +40,12 @@ def find_all(curser):
 def get_orgs():
     client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
-    org_key = db["org_key"].find_one()
-    del org_key['_id']
-    return jsonify(org_key)
+    coll = db["org_key"]
+
+    return jsonify(parse_bson(coll.find()))
 
 
-@app.route(os.path.join(conf["root"], 'countries/<org>'), methods=['GET'])
+@ app.route(os.path.join(conf["root"], 'countries/<org>'), methods=['GET'])
 def get_orgs_countries(org):
     client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
@@ -54,7 +55,7 @@ def get_orgs_countries(org):
 # what is this? use a decorator to route
 
 
-@app.route(os.path.join(conf["root"], 'masses'), methods=['GET'])
+@ app.route(os.path.join(conf["root"], 'masses'), methods=['GET'])
 def get_all_masses():
     client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
@@ -62,48 +63,26 @@ def get_all_masses():
     coll1 = client["masses"]["fssp"]
     coll2 = client["masses"]["sspv"]
 
-    if len(request.args) != 0:
-        if "country" in list(request.args.keys()):
-            country = request.args["country"].title()
-            if country in ["United States", "United States of America"]:
-                country = "USA"
-            request.args["country"] = country
+    out = parse_bson(coll1.find(request.args)) + \
+        parse_bson(coll2.find(request.args))
 
-        out = find_all(coll1.find(request.args)) + \
-            find_all(coll2.find(request.args))
-
-        return jsonify(out)
-
-    if len(request.args) == 0:
-        out = find_all(coll1.find()) + find_all(coll2.find())
-
-        return jsonify(out)
+    return jsonify(out)
 
 
-@app.route(os.path.join(conf["root"], 'masses/<org>'), methods=['GET'])
+@ app.route(os.path.join(conf["root"], 'masses/<org>'), methods=['GET'])
 def get_org_masses(org):
 
     client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
 
-    if org == "fssp":
-        coll = client["masses"]["fssp"]
-        return jsonify(find_all(coll))
+    coll = client["masses"][org]
 
-    elif org == "sspv":
-        coll = client["masses"]["sspv"]
-        return jsonify(find_all(coll))
+    out = parse_bson(coll.find(request.args))
 
-    elif org == "sspx":
-        coll = client["masses"]["sspv"]
-        return jsonify(find_all(coll))
-
-    elif org == "icksp":
-        coll = client["masses"]["sspv"]
-        return jsonify(find_all(coll))
+    return jsonify(out)
 
 
-@app.route('/masses/<organization>/<id>', methods=['POST'])
+@ app.route('/masses/<organization>/<id>', methods=['POST'])
 def update_masses():
     """Return all masses usa.
 
@@ -122,7 +101,7 @@ def update_masses():
     return jsonify(fssp.update(sspv))
 
 
-@app.route(os.path.join(conf["root"], 'test'), methods=['GET', 'POST'])
+@ app.route(os.path.join(conf["root"], 'test'), methods=['GET', 'POST'])
 def get_test():
 
     # msg = request.args.get()

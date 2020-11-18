@@ -1,4 +1,6 @@
 import pymongo
+from bson.json_util import dumps as bdumps
+import json
 
 
 with open("config.json", "r") as f:
@@ -12,13 +14,12 @@ coll2 = db["sspv"]
 
 #coll = coll1+coll2
 
-print(coll1.find().distinct("country"))
-print(out.next())
-.where()
+out = list(coll1.find(
+    {"country": "USA", "name": "St. Joseph the Worker Parish"}))
 
-what is map/reduce
+out1 = list(coll1.find({}))
+out2 = list(coll1.find())
 
+print(len(out1), len(out2))
 
-for el in list(out):
-    print(el)
-    print(" ")
+print(list(out))
