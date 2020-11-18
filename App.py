@@ -45,7 +45,7 @@ def get_orgs():
 
 
 @app.route(os.path.join(conf["root"], 'countries/<org>'), methods=['GET'])
-def get_orgs(org, country):
+def get_orgs_countries(org):
     client = pymongo.MongoClient(conf["mongo"])
     db = client["masses"]
     coll = db[org]
@@ -90,47 +90,17 @@ def get_org_masses(org):
         coll = client["masses"]["fssp"]
         return jsonify(find_all(coll))
 
-    if org == "sspv":
+    elif org == "sspv":
         coll = client["masses"]["sspv"]
         return jsonify(find_all(coll))
 
-    if org == "sspx":
-            coll = client["masses"]["sspv"]
+    elif org == "sspx":
+        coll = client["masses"]["sspv"]
         return jsonify(find_all(coll))
 
-    if org == "icksp":
-            coll = client["masses"]["sspv"]
+    elif org == "icksp":
+        coll = client["masses"]["sspv"]
         return jsonify(find_all(coll))
-
-
-@app.route(os.path.join(conf["root"], 'test2'), methods=['GET', 'POST'])
-def get_test2():
-
-    # msg = request.args.get()
-    request.get_data()
-    msg = request.data
-
-    # get header info
-    msg = dict(request.headers)
-
-    # get query parameters:
-    args = request.args
-
-    u = request.url
-    # request.json
-    f = request.form
-    # msg = request.get_json()
-    # return jsonify(msg)
-    return jsonify({"headers": msg, "args": args, "form": f, "url": u})
-
-
-# @app.route('/test', methods=['POST'])
-# def get_test():
-"""update  mass by sending in json object
-"""
-#     #msg = request.args.get('location')
-#     msg = request.json('location')
-#     return jsonify({"out": msg})
 
 
 @app.route('/masses/<organization>/<id>', methods=['POST'])
@@ -150,6 +120,27 @@ def update_masses():
     del sspv['_id']
 
     return jsonify(fssp.update(sspv))
+
+
+@app.route(os.path.join(conf["root"], 'test'), methods=['GET', 'POST'])
+def get_test():
+
+    # msg = request.args.get()
+    request.get_data()
+    msg = request.data
+
+    # get header info
+    msg = dict(request.headers)
+
+    # get query parameters:
+    args = request.args
+
+    u = request.url
+    # request.json
+    f = request.form
+    # msg = request.get_json()
+    # return jsonify(msg)
+    return jsonify({"headers": msg, "args": args, "form": f, "url": u})
 
 
 if __name__ == "__main__":

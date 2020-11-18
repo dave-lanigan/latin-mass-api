@@ -69,8 +69,18 @@ def get_fssp(path="{}/data".format(os.getcwd()), collection=None):
             return None
 
     def get_country(raw_text):
+
+        catch_list = ['Belgique', 'Deutschland', 'Irlande', 'Italia', 'México',
+                      'Nederland', 'Polska', 'Suisse', 'USA', 'Österreich', 'Česká republika']
+        change_list = ['Belgique', 'Germany', 'Ireland', 'Italy', 'Mexico', 'Netherlands',
+                       'Poland', 'Switzerland', 'United States', 'Austria', 'Czech Republic']
+
         text = raw_text.strip()
-        return text.split("-")[-1].strip()
+        name = text.split("-")[-1].strip()
+
+        if name in catch_list:
+            name = change_list[catch_list.index(name)]
+        return name
 
     driver = webdriver.Firefox()
     driver.get('https://www.fssp.org/en/find-us/where-are-we/')
@@ -103,7 +113,7 @@ def get_fssp(path="{}/data".format(os.getcwd()), collection=None):
                 "address": tds[2].text.strip(),
                 "times": info[1],
                 "link": get_link(tds[4]),
-                "estDate0": None,
+                "estDate": None,
             }
 
             label = "mass-{}".format(idx)
@@ -112,7 +122,8 @@ def get_fssp(path="{}/data".format(os.getcwd()), collection=None):
             if collection:
                 collection.insert(doc)
 
-    print("fssp mongodb collection updated.")
+    if collection:
+        print("fssp mongodb collection updated.")
 
     if collection is None:
         newf = create_new_filename(path=path, filename="fssp")
@@ -134,7 +145,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 9:00 a.m."],
                     "phone": "352.226.6337",
                     "note": "Please call to verify times.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-1": {
@@ -145,7 +156,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 5:00 p.m."],
                     "phone": "954.214.5019",
                     "note": "Please call to verify times.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-2": {
@@ -156,7 +167,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Mass offered on the 4th Sunday of every month at 8:30 a.m."],
                     "phone": "208.684.4598",
                     "note": "Please call to verify Mass time.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-3": {
@@ -167,7 +178,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Mass offered on the 1st, 2nd, 3rd, and 5th Sunday."],
                     "phone": "708.928.1705",
                     "note": "Please call to verify times.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-4": {
@@ -178,7 +189,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["3rd and 5th Sundays at 8:30 a.m."],
                     "phone": "502.964.0740",
                     "note": "Please call to verify times.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-5": {
@@ -189,7 +200,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Mass offered every Sunday 1st, 2nd, and 3rd Sundays – Mass is at 9 a.m."],
                     "phone": "410.355.3345",
                     "note": "Please call to verify times.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-6": {
@@ -200,7 +211,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Mass offered on the 1st, 2nd and 5th Sundays of the month at 9:00 a.m."],
                     "phone": "231.947.4568",
                     "note": "Please call to confirm Mass time on the 4th Sunday.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-7": {
@@ -211,7 +222,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Mass offered on the 3rd and 5th Sundays of the month."],
                     "phone": "507.534.3682",
                     "note": "Please call to verify times.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-8": {
@@ -222,7 +233,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Mass offered on the 1st, 3rd, and 5th Sundays of the month at 8:30 a.m."],
                     "phone": "314.428.9086",
                     "note": "Please call to verify times.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-9": {
@@ -233,7 +244,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 7:00 a.m., 8:30 a.m."],
                     "phone": "516.922.5430",
                     "note": "Holy Days of Obligation please check church bulletin.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-10": {
@@ -244,7 +255,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 8:00 a.m., 10:30 a.m.", "First Saturday at 8:00 a.m."],
                     "phone": "631.351.0116",
                     "note": "Holy Days of Obligation and Daily Mass times please check church bulletin.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-11": {
@@ -255,7 +266,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 8:30 a.m.", "Holy Days 8:00 a.m."],
                     "phone": "516.922.5430",
                     "note": "",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-12": {
@@ -266,7 +277,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 8:00 a.m., 10:30 a.m."],
                     "phone": "518.622.9833",
                     "note": "Please call for times of Holy Day and daily Masses.",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-13": {
@@ -277,7 +288,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 12:30 p.m.", "Holy Days 12:00 p.m."],
                     "phone": "315.733.9449",
                     "note": "",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-14": {
@@ -288,7 +299,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 12:30  p.m."],
                     "phone": "610.863.6049",
                     "note": "",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
         "mass-15": {
@@ -299,7 +310,7 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
                     "times": ["Sun. 8:15 a.m."],
                     "phone": "570.323.5124",
                     "note": "",
-                    "estDate0": None,
+                    "estDate": None,
                     "org": "sspv",
         },
     }
@@ -433,7 +444,15 @@ def get_sspv(path="{}/data".format(os.getcwd()), collection=None):
 
 def get_sspx():
     url = "https://sspx.org/en/community/priories"
-    urls = [""]
+    urls = ["https://africa.fsspx.org/en/community/priories",
+            "https://fsspx.asia/en/community/priories",
+            "https://fsspx.at/de/content/3275",
+            "https://fsspx.be/fr/content/10866",
+            "https://sspx.ca/en/community/priories",
+            "https://laportelatine.org/lieux",
+            "https://fsspx.de/de/content/3275",
+            "https://fsspx.uk/en/community/priories",
+            ""]
 
     page = requests.get(url).content
     soup = BeautifulSoup(page, "lxml")
