@@ -181,12 +181,13 @@ Ex. Response
 
 ##### /(org)
 
-(PUT) Update Mass times for a Mass.
+(PUT) Update a Mass document for an organization.
 
 Parameter | Type | Description
 ------|-------|-----
 id | string | The id for the mass document.
 time | list | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
+estDate | dict/obj | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
 
 
 Ex. Response:
