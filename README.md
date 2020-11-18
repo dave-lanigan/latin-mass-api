@@ -20,7 +20,7 @@ Note: SSPX and SSPV have an irregular status according to the Vatican.
 
 ### Public Endpoints:
 
-#### /orgs
+##### /orgs
 
 (GET) Returns a json object with the organizations - their names in latin and english and abbreviations.
 
