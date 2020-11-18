@@ -117,9 +117,15 @@ Ex Response:
   },
 
 ```
-#####  /masses/(fssp)
+#####  /masses/(org)
 
 (GET) Returns the masses specific to an organization. Use the organizations abbreviation. 
+
+
+```
+Ex: GET /countries/fssp
+```
+
 
 Ex. Response
 
