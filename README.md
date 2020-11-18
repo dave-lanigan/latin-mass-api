@@ -1,4 +1,4 @@
-# Latin Mass API
+## Latin Mass API
 
 API for information on tridentine catholic liturgies from tridentine-only societies world wide.
 
@@ -20,13 +20,11 @@ Note: SSPX and SSPV have an irregular status according to the Vatican.
 
 ### Public Endpoints:
 
-Request:
+#### /orgs
 
-```
-GET /organizations
-```
+(GET) Returns a json object with the organizations - their names in latin and english and abbreviations.
 
-Response:
+Ex. Response:
 
 ```
 {
@@ -45,14 +43,32 @@ Response:
 }
 
 ```
-Request:
+
+##### /countries/"org"
+
+(GET) Returns a list of the countries where an organization has masses.
 
 ```
-GET /masses
+Ex: GET /countries/fssp
 ```
 
-Response:
-- Returns a list of json objects of masses from all different organizations and diocese
+Ex. Response:
+
+```
+['Australia', 'Belgique', 'Canada', 'Colombia', 'Deutschland', 'France', 'Great Britain', 'Irlande', 'Italia', 'México', 'Nederland', 'New Zealand', 'Nigeria', 'Polska', 'Suisse', 'USA', 'Österreich', 'Česká republika']
+```
+
+##### /masses
+
+(GET) Returns a list of json objects of masses from all different organizations and diocese. You can filter by country by passing the country in as a parameter.
+
+Parameter | Type | Description
+------|-------|-----
+country | String | The country. Ex: New Zealand or new zealand.
+org | String | The organization. Use the organizations abbreviation. Ex: fssp or sspv
+
+
+Ex Response:
 
 ```
 [
@@ -101,14 +117,11 @@ Response:
   },
 
 ```
-Request:
+#####  /masses/(fssp)
 
-```
-GET /masses/fssp
-```
+(GET) Returns the masses specific to an organization. Use the organizations abbreviation. 
 
-Response:
-- Returns a list of json objects of masses from fssp
+Ex. Response
 
 ```
 [
