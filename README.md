@@ -55,7 +55,26 @@ Ex: GET /countries/fssp
 Ex. Response:
 
 ```
-['Australia', 'Belgique', 'Canada', 'Colombia', 'Deutschland', 'France', 'Great Britain', 'Irlande', 'Italia', 'México', 'Nederland', 'New Zealand', 'Nigeria', 'Polska', 'Suisse', 'USA', 'Österreich', 'Česká republika']
+[
+  "Australia", 
+  "Austria", 
+  "Belgique", 
+  "Canada", 
+  "Colombia", 
+  "Czech Republic", 
+  "France", 
+  "Germany", 
+  "Great Britain", 
+  "Ireland", 
+  "Italy", 
+  "Mexico", 
+  "Netherlands", 
+  "New Zealand", 
+  "Nigeria", 
+  "Poland", 
+  "Switzerland", 
+  "United States"
+]
 ```
 
 ##### /masses
@@ -115,7 +134,7 @@ Ex Response:
 
 
 Parameter | Type | Description
-------|-------|-----
+------ | ------- | -----
 country | String | The country. Ex: New Zealand or new zealand.
 name | String | The name of the church or building.
 
@@ -171,7 +190,7 @@ Ex. Response
 (PUT) Update a Mass document for an organization.
 
 Parameter | Type | Required |Description
-------|-------|-----
+------|-------|-----|------
 id | string | Yes | The id for the mass document.
 time | list | No | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
 estDate | dict/obj | No | Date of establishement Should conform to ISO 8601. Ex: {"community":"1987-01-13","org":"2007-01-13","quasiParish":"2009-13-10", "parish":"2011-13-10"}
@@ -207,7 +226,7 @@ Ex. Response:
 (POST) post a mass document to the MongoDB database.
 
 Parameter | Type | Required |Description
-------|-------|-----
+------|-------|-----|------
 org | String | Yes | The organization. Use the organizations abbreviation. Ex: fssp or sspv
 name | String | Yes | The name of the church or building.
 country | String | Yes | The country. Ex: New Zealand.
@@ -248,9 +267,9 @@ Ex. Response:
 
 (DELETE) Delete a mass document from the MongoDB database.
 
-Parameter | Type | Description
-------|-------|-----
-id | string | The id for the mass document.
+Parameter | Type | Required |Description
+------|-------|-----|-------
+id | string | Yes |The id for the mass document.
 
 
 Ex. Response:
