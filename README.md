@@ -1,20 +1,30 @@
-# latin-mass-API
+## Latin Mass API
 
-API for information on wordwide.
-Currently only fssp and sspv (usa) are available.
+API for information on tridentine catholic liturgies from tridentine-only societies world wide.
 
-##### Root endpoint:
+FSSP mass information is scraped from the [FSSP](https://www.fssp.org/en/find-us/where-are-we/) website.
+
+SSPX mass information is scraped from the [SSPX](https://sspx.org/en) site from the various region's pages.
+
+ICKSP mass information is
+
+SSPV mass information is scraped from the [SSPV](https://congregationofstpiusv.com/locations/) site.
+
+Note: SSPX and SSPV have an irregular status according to the Vatican.
+
+***Note: Currently only fssp and sspv (usa) are available.***
 
 
-### Endpoints:
+### Root endpoint:
 
-Request:
 
-```
-GET /organizations
-```
+### Public Endpoints:
 
-Response:
+#### /orgs
+
+(GET) Returns a json object with the organizations - their names in latin and english and abbreviations.
+
+Ex. Response:
 
 ```
 {
@@ -33,14 +43,32 @@ Response:
 }
 
 ```
-Request:
+
+##### /countries/(org)
+
+(GET) Returns a list of the countries where an organization has masses.
 
 ```
-GET /masses
+Ex: GET /countries/fssp
 ```
 
-Response:
-- Returns a list of json objects of masses from all different organizations and diocese
+Ex. Response:
+
+```
+['Australia', 'Belgique', 'Canada', 'Colombia', 'Deutschland', 'France', 'Great Britain', 'Irlande', 'Italia', 'México', 'Nederland', 'New Zealand', 'Nigeria', 'Polska', 'Suisse', 'USA', 'Österreich', 'Česká republika']
+```
+
+##### /masses
+
+(GET) Returns a list of json objects of masses from all different organizations and diocese. You can filter by country by passing the country in as a parameter.
+
+Parameter | Type | Description
+------|-------|-----
+country | String | The country. Ex: New Zealand or new zealand.
+org | String | The organization. Use the organizations abbreviation. Ex: fssp or sspv
+
+
+Ex Response:
 
 ```
 [
@@ -89,14 +117,17 @@ Response:
   },
 
 ```
-Request:
+#####  /masses/(org)
+
+(GET) Returns the masses specific to an organization. Use the organizations abbreviation. 
+
 
 ```
-GET /masses/fssp
+Ex: GET /countries/fssp
 ```
 
-Response:
-- Returns a list of json objects of masses from fssp
+
+Ex. Response
 
 ```
 [
@@ -144,4 +175,50 @@ Response:
     "org": "fssp"
   },
   ....
+```
+
+### Private Endpoints (Must have key)
+
+##### /(org)
+
+(PUT) Update Mass times for a Mass.
+
+Parameter | Type | Description
+------|-------|-----
+id | string | The id for the mass document.
+time | list | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
+
+
+Ex. Response:
+```
+
+```
+
+##### /(org)
+
+(POST)
+
+Parameter | Type | Description
+------|-------|-----
+org | String | The organization. Use the organizations abbreviation. Ex: fssp or sspv
+country | String | The country. Ex: New Zealand or new zealand.
+
+
+Ex. Response:
+```
+
+```
+
+##### /(org)
+
+(DELETE) 
+
+Parameter | Type | Description
+------|-------|-----
+id | string | The id for the mass document.
+
+
+Ex. Response:
+```
+
 ```
