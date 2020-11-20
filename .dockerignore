@@ -1,0 +1,4 @@
+/env
+find.txt
+geckodriver.log
+__pycache__/
