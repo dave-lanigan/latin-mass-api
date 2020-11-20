@@ -20,7 +20,7 @@ Note: SSPX and SSPV have an irregular status according to the Vatican.
 
 ### Public Endpoints:
 
-#### /orgs
+##### /orgs
 
 (GET) Returns a json object with the organizations - their names in latin and english and abbreviations.
 
@@ -55,7 +55,26 @@ Ex: GET /countries/fssp
 Ex. Response:
 
 ```
-['Australia', 'Belgique', 'Canada', 'Colombia', 'Deutschland', 'France', 'Great Britain', 'Irlande', 'Italia', 'México', 'Nederland', 'New Zealand', 'Nigeria', 'Polska', 'Suisse', 'USA', 'Österreich', 'Česká republika']
+[
+  "Australia", 
+  "Austria", 
+  "Belgique", 
+  "Canada", 
+  "Colombia", 
+  "Czech Republic", 
+  "France", 
+  "Germany", 
+  "Great Britain", 
+  "Ireland", 
+  "Italy", 
+  "Mexico", 
+  "Netherlands", 
+  "New Zealand", 
+  "Nigeria", 
+  "Poland", 
+  "Switzerland", 
+  "United States"
+]
 ```
 
 ##### /masses
@@ -66,6 +85,7 @@ Parameter | Type | Description
 ------|-------|-----
 country | String | The country. Ex: New Zealand or new zealand.
 org | String | The organization. Use the organizations abbreviation. Ex: fssp or sspv
+name | String | The name of the church or building.
 
 
 Ex Response:
@@ -73,11 +93,14 @@ Ex Response:
 ```
 [
   {
+    "_id": "5fb5575d7869140237f637a9", 
     "address": "Charles O'Neill Way (off Thomas St.) - Lewisham NSW 2049 - Australia", 
     "country": "Australia", 
     "diocese": "Sydney", 
-    "estDate0": null, 
+    "estDate": null, 
     "link": "http://www.maternalheart.org", 
+    "name": "Maternal Heart of Mary Parish", 
+    "org": "fssp", 
     "times": [
       "Sun. 8.30 and 10.30 a.m.", 
       "Mon. 7.00 a.m.", 
@@ -87,34 +110,22 @@ Ex Response:
       "Fri. 6.15 p.m. (First Fri. 7.00 p.m.)", 
       "Sat. 9.00 a.m.", 
       "Public Holidays 8.00 a.m."
-    ], 
-    "name": "Maternal Heart of Mary Parish", 
-    "org": "fssp"
+    ]
   }, 
   {
+    "_id": "5fb5575e7869140237f637aa", 
     "address": "8-14 Austin Woodbury Place - Old Toongabbie NSW 2146 - Australia", 
     "country": "Australia", 
     "diocese": "Parramatta", 
-    "estDate0": null, 
+    "estDate": null, 
     "link": null, 
+    "name": "Campion College Chapel", 
+    "org": "fssp", 
     "times": [
       "Fri. 12 p.m. (during term)"
-    ], 
-    "name": "Campion College Chapel", 
-    "org": "fssp"
+    ]
   }, 
-  {
-    "address": "70 Douglas Rd - Blacktown NSW 2148 - Australia", 
-    "country": "Australia", 
-    "diocese": "Parramatta", 
-    "estDate0": null, 
-    "link": null, 
-    "times": [
-      "Sun. 8am, 10am (Sung)"
-    ], 
-    "name": "Croatian Catholic Parish Hall", 
-    "org": "fssp"
-  },
+  ...
 
 ```
 #####  /masses/(org)
@@ -122,8 +133,13 @@ Ex Response:
 (GET) Returns the masses specific to an organization. Use the organizations abbreviation. 
 
 
+Parameter | Type | Description
+------ | ------- | -----
+country | String | The country. Ex: New Zealand or new zealand.
+name | String | The name of the church or building.
+
 ```
-Ex: GET /countries/fssp
+Ex: GET /masses/fssp
 ```
 
 
@@ -132,11 +148,14 @@ Ex. Response
 ```
 [
   {
+    "_id": "5fb5575d7869140237f637a9", 
     "address": "Charles O'Neill Way (off Thomas St.) - Lewisham NSW 2049 - Australia", 
     "country": "Australia", 
     "diocese": "Sydney", 
-    "estDate0": null, 
+    "estDate": null, 
     "link": "http://www.maternalheart.org", 
+    "name": "Maternal Heart of Mary Parish", 
+    "org": "fssp", 
     "times": [
       "Sun. 8.30 and 10.30 a.m.", 
       "Mon. 7.00 a.m.", 
@@ -146,34 +165,21 @@ Ex. Response
       "Fri. 6.15 p.m. (First Fri. 7.00 p.m.)", 
       "Sat. 9.00 a.m.", 
       "Public Holidays 8.00 a.m."
-    ], 
-    "name": "Maternal Heart of Mary Parish", 
-    "org": "fssp"
+    ]
   }, 
   {
+    "_id": "5fb5575e7869140237f637aa", 
     "address": "8-14 Austin Woodbury Place - Old Toongabbie NSW 2146 - Australia", 
     "country": "Australia", 
     "diocese": "Parramatta", 
-    "estDate0": null, 
+    "estDate": null, 
     "link": null, 
+    "name": "Campion College Chapel", 
+    "org": "fssp", 
     "times": [
       "Fri. 12 p.m. (during term)"
-    ], 
-    "name": "Campion College Chapel", 
-    "org": "fssp"
+    ]
   }, 
-  {
-    "address": "70 Douglas Rd - Blacktown NSW 2148 - Australia", 
-    "country": "Australia", 
-    "diocese": "Parramatta", 
-    "estDate0": null, 
-    "link": null, 
-    "times": [
-      "Sun. 8am, 10am (Sung)"
-    ], 
-    "name": "Croatian Catholic Parish Hall", 
-    "org": "fssp"
-  },
   ....
 ```
 
@@ -181,44 +187,93 @@ Ex. Response
 
 ##### /(org)
 
-(PUT) Update Mass times for a Mass.
+(PUT) Update a Mass document for an organization.
 
-Parameter | Type | Description
-------|-------|-----
-id | string | The id for the mass document.
-time | list | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
+Parameter | Type | Required |Description
+------|-------|-----|------
+id | string | Yes | The id for the mass document.
+time | list | No | list of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]
+estDate | dict/obj | No | Date of establishement Should conform to ISO 8601. Ex: {"community":"1987-01-13","org":"2007-01-13","quasiParish":"2009-13-10", "parish":"2011-13-10"}
 
 
 Ex. Response:
-```
+```  
+{
+    "_id": "5fb5575d7869140237f637a9", 
+    "address": "Charles O'Neill Way (off Thomas St.) - Lewisham NSW 2049 - Australia", 
+    "country": "Australia", 
+    "diocese": "Sydney", 
+    "estDate": null, 
+    "link": "http://www.maternalheart.org", 
+    "name": "Maternal Heart of Mary Parish", 
+    "org": "fssp", 
+    "times": [
+      "Sun. 8.30 and 10.30 a.m.", 
+      "Mon. 7.00 a.m.", 
+      "Tue. 6.00 p.m.", 
+      "Wed. 7.00 a.m.", 
+      "Thu. 7.00 p.m.", 
+      "Fri. 6.15 p.m. (First Fri. 7.00 p.m.)", 
+      "Sat. 9.00 a.m.", 
+      "Public Holidays 8.00 a.m."
+    ]
+  }, 
 
 ```
 
 ##### /(org)
 
-(POST)
+(POST) post a mass document to the MongoDB database.
 
-Parameter | Type | Description
-------|-------|-----
-org | String | The organization. Use the organizations abbreviation. Ex: fssp or sspv
-country | String | The country. Ex: New Zealand or new zealand.
+Parameter | Type | Required |Description
+------|-------|-----|------
+org | String | Yes | The organization. Use the organizations abbreviation. Ex: fssp or sspv
+name | String | Yes | The name of the church or building.
+country | String | Yes | The country. Ex: New Zealand.
+diocese | String | No | The diocese - only required for Vatican recognized churches.
+address | String | Yes | The address to the church or building. Can be null.
+times | List | Yes | List of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"].
+link | List | Yes | List of times for the mass. Ex: ["Sun. 8:00am, 10:30am","Sat. 10:00am"]. Can be null.
+estDate | Dict/Obj | Yes | Date of establishement Should conform to ISO 8601. Ex: {"community":"1987-01-13","org":"2007-01-13","quasiParish":"2009-13-10", "parish":"2011-13-10"} 
+
 
 
 Ex. Response:
 ```
+  {
+    "_id": "5fb5575d7869140237f637a9", 
+    "address": "Charles O'Neill Way (off Thomas St.) - Lewisham NSW 2049 - Australia", 
+    "country": "Australia", 
+    "diocese": "Sydney", 
+    "estDate": null, 
+    "link": "http://www.maternalheart.org", 
+    "name": "Maternal Heart of Mary Parish", 
+    "org": "fssp", 
+    "times": [
+      "Sun. 8.30 and 10.30 a.m.", 
+      "Mon. 7.00 a.m.", 
+      "Tue. 6.00 p.m.", 
+      "Wed. 7.00 a.m.", 
+      "Thu. 7.00 p.m.", 
+      "Fri. 6.15 p.m. (First Fri. 7.00 p.m.)", 
+      "Sat. 9.00 a.m.", 
+      "Public Holidays 8.00 a.m."
+    ]
+  }, 
 
 ```
 
 ##### /(org)
 
-(DELETE) 
+(DELETE) Delete a mass document from the MongoDB database.
 
-Parameter | Type | Description
-------|-------|-----
-id | string | The id for the mass document.
+Parameter | Type | Required |Description
+------|-------|-----|-------
+id | string | Yes |The id for the mass document.
 
 
 Ex. Response:
 ```
+{"status":"success"}
 
 ```
